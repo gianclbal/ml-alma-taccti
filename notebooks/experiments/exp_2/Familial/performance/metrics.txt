@@ -1,0 +1,17 @@
+
+
+2024-10-01_21-30-25
+
+Holdout Set - Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      1.00      0.95       240
+           1       0.00      0.00      0.00        25
+
+    accuracy                           0.91       265
+   macro avg       0.45      0.50      0.48       265
+weighted avg       0.82      0.91      0.86       265
+
+
+Holdout Set - Confusion Matrix:
+True Negative: 240, False Positive: 0, False Negative: 25, True Positive: 0
