@@ -1,0 +1,4 @@
+CMDLINE /Users/gbaldonado/.pyenv/versions/3.10.12/bin/python3.10 tacit-app_social.py /Users/gbaldonado/Developer/ml-alma-taccti/ml-alma-taccti/data/to_be_tacited/sample_data False
+MEM 0.316406 1722580354.1368
+MEM 25.496094 1722580354.2421
+MEM 41.957031 1722580354.3473
