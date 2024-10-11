@@ -1,0 +1,32 @@
+name: ml_env
+channels:
+  - bioconda
+  - r
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - tensorflow-deps
+  - torchvision
+  - torchaudio
+  - pytorch
+  - tokenizers=0.11.1
+  - transformers
+  - ipykernel
+  - lxml
+  - cchardet
+  - keras
+  - conda=23.9.0
+  - pandoc
+  - gensim
+  - spacy
+  - spacy-model-en_core_web_sm
+  - pytables
+  - xgboost
+  - wordcloud
+  - textblob
+  - openpyxl
+  - xlwt
+variables:
+  CONDA_SUBDIR: osx-arm64
+prefix: /Users/gbaldonado/miniforge3/envs/ml_env
