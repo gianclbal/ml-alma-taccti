@@ -1,0 +1,6 @@
+Theme,Training Size,Training Distribution,Test Size,Test Distribution
+Aspirational,4151,"723 (17.44% Positive), 3427 (82.56% Negative)",462,"80 (17.53% Positive), 381 (82.47% Negative)"
+Familial,1899,"391 (20.59% Positive), 1507 (79.41% Negative)",211,"43 (20.38% Positive), 167 (79.62% Negative)"
+Navigational,7381,"430 (5.83% Positive), 6950 (94.17% Negative)",821,"48 (5.85% Positive), 772 (94.15% Negative)"
+Social,1978,"118 (5.97% Positive), 1859 (94.03% Negative)",220,"13 (5.91% Positive), 206 (94.09% Negative)"
+Resistance,2664,"671 (25.19% Positive), 1992 (74.81% Negative)",296,"75 (25.34% Positive), 220 (74.66% Negative)"

@@ -1,0 +1,844 @@
+,sentence,label,predicted_label
+0,they feel like small little flashbacks when i try to think back.,0,0
+1,by that i mean i want to educate myself more biochemistry.,1,1
+2,but knowing that god is with me throughout my academic journey and this thing called life is comforting.,0,0
+3,i hope to continue my long but heartfelt journey so that i can have a career and a life that i am proud of.,0,0
+4,i naturally enjoy helping other people and helping people in need.,0,0
+5,i really hope that this course will help me expand my understanding of physics by introducing new techniques like using calculus to solve problems.,0,1
+6,"i am here as i will be graduating in just a few months and all my family members will be able to see me graduate, virtually or on stage.",0,1
+7,"i am taking this science course because the first 2 weeks of organic chemistry, i had a few panic attacks and was extremely worried for how i will end up doing do in the course.",0,0
+8,i am here because i want to further my education and expand my knowledge.,1,1
+9,i'm here because i worked very hard in my first two years of college in order to change my major to something i liked more than what it was before.,0,0
+10,i want to have more knowledge about everything.,1,1
+11,"honestly, if it wasn't required i probably wouldn't be in this class.",0,0
+12,i am a handson learner so this is the best learning experience for me.,0,0
+13,i also am here because i like to work hard and push my mind to its limits.,0,0
+14,this is my first semester in sf state coming from community college.,0,0
+15,they work so hard to support me and my siblings to send us all to college.,0,0
+16,i am here to do my best and learn as much as possible.,1,1
+17,i am here because i am a biology major going into human genetics.,0,0
+18,although i know i am barely scratching the surface of my full potential in life and wherever it is that i may end up is still unknown.,0,0
+19,"it definitely is a difficult journey and comes with many challenges, but in the end, i will achieve something that is going to benefit me for the rest of my life.",0,0
+20,i think my purpose is to travel to third world countries and help people who really need it.,0,0
+21,"in my freshman year of college, i started researching and eventually interviewed a civil engineer and it reinforced in my brain that this is what i want to become, it fascinates me and i feel like i will be happy in this field of work for the rest of my life.",1,1
+22,"i also want my life to have meaning, i want to give back to my community and to help with some of the problems like helping the homeless, and just trying to help out in any way possible.",1,0
+23,i don't want to be stuck with a major and be unhappy.,0,0
+24,all while not having enough at the end of the day to provide the life i want to my family and myself.,0,0
+25,i care about my grades and i really enjoy the topics although its difficult.,0,0
+26,after seeing them it made me really interested in physics or possibly majoring in physics but after starting class last month i realized that physics is actually really hard.,0,0
+27,to be able to do so i need to first accomplish my goal of obtaining a bachelors in kinesiology which requires me to take physics.,0,1
+28,the thing is ive always liked math and science but i never really had a clear path of what i wanted to do with it all.,0,0
+29,"there is no reason or rhyme to why each of us are here, but it is our duty to discover what that means for us, individually.",0,0
+30,"i often ask myself this question, ""why am i here?"" and i start to think about all i have done to be here, how far i have come.",0,0
+31,"we can learn more about mechanics in physics and how it applies to everyday life, like in our machinery and other stuff.",0,0
+32,for each one i always end up saying so that i dont miss class and can graduate.,0,0
+33,im here because i need help to pass ochem. i would like help from my science community because its hard to get help and noticed when we are so many students.,0,0
+34,in order to be able to invent anything i know i need to understand the physics behind it.,0,0
+35,i am at sfsu because i wanted to run cross country in college.,0,0
+36,"this class can teach you how to work with others, which i think is a critical skill to learn.",0,0
+37,i figured that it would help me really understand the base concepts of physics.,0,0
+38,i am in sci230 because i needed it to reach full time student status.,0,0
+39,"this course along with other are actually really important for me i take, this class is a designated class for my specific major.",0,0
+40,i want to be able to provide for my family and especially to give back to my parents.,0,1
+41,"for example, while a systems net force is not equal to zero, it occurs acceleration by the newton's 2nd law.",0,0
+42,"i am not just here but i am present, to learn what i can to help the world in my own way through science, through justice, and from the heart.",0,0
+43,i wouldnt bother to try to explain because ive accepted one true fact that we all can live with: im here right now because i have to be.why am i here right now?,0,0
+44,i am here because i want to do good in school and get a job in computer science.,1,1
+45,"i remember in class we did the ekg lab and i think this is one of the closest things to the career i want to pursue, i work as a medical assistant now and i do ekg for patients almost every time i have a shift and getting to understand it from a different perspective, a physics perspective is really interesting because i'm always focused on biology and this part of science but i never expand my knowledge outside my box or my ""comfort zone"" because in the past i didn't do very good in physics classes or they weren't my favorite classes i have a bad memory with these classes so that is why i moved away from trying to understand it.",1,1
+46,i am here because i believe this class with give me help and understanding to succeed and move on to other chemistry classes.,0,0
+47,i took physics when i was in my freshman year of high school which was almost five years ago.,0,0
+48,"i am here to make sure that i graduate and make my family proud, i am also the first generation of my family to attend college.",0,1
+49,the concepts that are taught in physics are harder for me to comprehend than the other science courses.,0,0
+50,i'm here cause my parents brought me here.,0,0
+51,"i am an international student from china, and my parents send me here because they want me to have better education resources.",0,0
+52,"this is my third year here at sfsu, and i am starting to take more and more major classes as well as classes (like this one) for prerequisites for doctorate of physical therapy programs.",1,1
+53,my goal is to work hard and grasp an understanding of the topics taught so that i have a good foundation for when i take the next physics course needed.,0,0
+54,so i hope this class will help me succeed in this semester and in my biology major.,0,0
+55,my primary goal is to understand how the universe works and function.,0,0
+56,i need because it's required or else i wouldn't be in this particular class.,0,0
+57,i want to be successful and happy in my career as a marine biologist and i want to make my parents proud.,1,1
+58,i am here to improve and challenge myself to learn new things and be capable to do things on my own.,1,1
+59,"physics is a requirement, but aside from being a prereq....",0,0
+60,i chose to take this course because it goes along with my physics lecture this semester and it meets my prerequisite requirement for my major.,0,0
+61,i often question myself how different my life would be or how it would my life be if i was not who i am.,0,0
+62,why am i here? im here because i want to make my parents proud a better future for my family myself a better job that pays better than a regular job be able to afford certain things such as a house and trips,0,1
+63,"sometimes, i honestly feel stupid, but i know how to get out of that feeling, and that my friends is why i am here in sci305.",0,0
+64,"point and case, my cat sitting on my printer glaring at me because he wants something from me.",0,0
+65,school is essential in to days society in order to obtain a well paying and generally higher stature job.,0,0
+66,"however, i do know that professors can become overwhelmed with the amount of classes, students, and grading that they have.",1,0
+67,"i do think practice and experience doing homework even if you fully understand the concepts is beneficial, but i don't spend my time unless forced to like a sci class.",0,0
+68,"in the end, sfsu has actually grown on me and i do not regret it one bit.",1,0
+69,"i have never spent too much time in sf to know the area, but through sfsu i am very excited to get to know the city and continue my journey.",0,0
+70,"so, i am here to hope to learn the basic concepts of physic.",1,1
+71,i also think that all college stuff gets you prepared for the work load that is waiting for me out there.,0,0
+72,to make myself a better person and more knowledgeable,0,0
+73,either for ourself or someone very important to them.,0,0
+74,i am here so that i can attain my bachelors in cinema and accomplish my mission of becoming a screenwriterdirector.,1,1
+75,this is a very standard answer but it goes more into that.,0,0
+76,everything obeys the laws of physics.,0,0
+77,i am also here because i want to be able to graduate in the four year time period as time is really important to me.,1,1
+78,"i loved building things which made me decide civil engineering, but i always enjoyed working with cars since my dad worked and built cars when i was a kid.",1,0
+79,the second reason is that it is really interesting and useful to know a lot of the stuff that you would learn when getting a stem degree.,0,0
+80,"it is nice to learn more about modern physics, and how i can apply it in the real world when i need too.",0,0
+81,i am here to get extra help in passing the course and the requirements i need to get into optometry school or pa school.,1,1
+82,you might not even be the best version of yourself. but still we or i continue to act like these smaller things seem to matter.,0,0
+83,this is a good opportunity for me to refresh my memories of what i learned since high school physics class.,0,0
+84,i'm here because this is a class that i need for my major.,0,0
+85,"the medical field has always interested me, once i got involved with sports and the gym i was more interested in a career that could overlay on those aspects that i enjoy.",0,1
+86,this allows me to learn faster.,0,0
+87,"i have to take physics for medical school prerequisites, but i am so excited by understanding how the world works.",1,0
+88,(and if not i will just come back to sci and get some extra help),0,0
+89,this is my first physics class i've taken since freshman year of high school and i didn't do so good in that class because i thought i wouldn't do anything with sciences or math so why bother learning this.,0,0
+90,i am here solely to learn.,0,0
+91,i am here to understand the material taught in class better.,1,1
+92,and also because it is related to math and solve problems.,0,0
+93,"i find physics to be really interesting, and important to understand what is happening in the physical world.",0,0
+94,i am a second year prebiology major.,0,0
+95,hopefully we will get to graduate at the same time too.,0,1
+96,this class is also probably a prereq for another class that i will need to take.,0,0
+97,"i love math and love to explore it, and physics also helps me learn math, so i am here.",0,0
+98,"since the age of ten i would watch project runway and was obsessed with the design people would make, consistently figuring out what was great about them and what i would fix.",0,0
+99,"throughout my entire life, i have dreamt about working in the medical field.",1,0
+100,it goes further into the theories and definitions and i believe it is important for me to learn those from this class.,0,0
+101,but other than that i know this class will be hard and i just have to be open to making more time for my studies.,0,0
+102,"so overall all, i am here to learn as much as possible that way i can succeed and continue on my path towards my future endeavors.",1,1
+103,"i'm also here because i want to learn and meet new people, build bonds so i can have connections in the future.",1,1
+104,"i am here to pursue my career of becoming an electrical engineering, and physics is one of the most important parts of it.",1,1
+105,"with this class, i not only hope to get as much help as i can but also to meet people in order to make a study group and make connections for the future.",0,0
+106,i learned that engineering mostly focussed on problem solving and creating products and tools to help solve those problems.,1,1
+107,being able to do well in a challenging class like physics ii will further validate that i am able to excel in a challenging curriculum and will further convince ucsf that i am a good fit for their program.,0,0
+108,"so for this class, i decided to join is for that extra help to understand the material better.",0,0
+109,i enjoy learning about how our world works because it allows me to come up with ideas as to how we can make it better.,0,0
+110,i am here to complete the path that i have always wanted to complete.,1,1
+111,"even though i am upper division and already have half my units finished, i still have to be at the school for 4 years because of the specific criteria it takes to graduate.",0,1
+112,"at that time, the general concepts were not difficult for me to understand.",0,0
+113,i dont regret anything.,0,0
+114,why am i here?the reason i am here is to prove myself and the people who have doubted my capabilities all from the start.,0,0
+115,it can have many different contexts that it can be used in.,0,0
+116,"so, i am here to know physics a little better.",1,1
+117,i am here because i am a first generation college student and i am interested in the medical field.,0,0
+118,"since i can remember my family has always been in the construction business so whenever i look at structures, i imagine how they are built.",0,0
+119,"i have to take these classes for my biology major, as it is a requirement.",0,0
+120,"i originally came for journalism, but too one class and absolutely hated it.",0,0
+121,i also find math an easier topic for me than english so that probably has an impact on my decision to do this as well.,0,0
+122,i am here at sf state taking physics 222 because i want to pursue a career in engineering.,1,1
+123,"in the sense of why am i going to college, i would say that i feel like my purpose in life is to be in the medical field to help people.",0,0
+124,"so when i decide or feel that i am good at something i tend to cling to it; so this is me, clinging to something i feel i am good at, thus far at the least.",0,0
+125,i am here in my 9 am lab because i would like to expand my knowledge and hands on lab skills but also because its a class that i need to take.,1,1
+126,"right now i feel it was a good decision, helped me understand new topics and more problems to practice with.",0,0
+127,:) roberto ramirez.,0,0
+128,we play games and teach each other.,0,0
+129,"but if i had to give an answer i would most likely say it is for my future and to make my parents proud of me for achieving a goal, especially within the science category.",0,0
+130,i know that physics 102 is suppose to make your understanding of physics 101 a lot clearer and easier to learn.,0,0
+131,this class for me is a review at the same time finding my purpose in science and my future career as a pt.,1,0
+132,i knew i was going to be constantly asking for help due to the fact that i'm first generation.,0,0
+133,also this gives me the opportunity to meet some of my classmates.,0,0
+134,it also helps with problem solving skills and critical thinkingtwo very important skills to have as a software engineer.,0,1
+135,"however, for my major, i would definitely need a degree because its smiled upon.",0,0
+136,"aside from that, i am also here to further my education not just to get my degree but to also help me better my understand of the world.",0,0
+137,i don't want to see the people around me suffer from diseases or be in pain.,0,0
+138,my understanding of calculus isnt that good and i hope to understand calculus better and its use in application through this class.,0,0
+139,i am also here in this class because i need to fulfill my ge requirement.,0,0
+140,i want to get past university not only to prove to myself that i can but to also set a path for my sister who also wants to attend university whenever she is able to.,1,1
+141,all throughout k12th grade i knew in my mind that i wanted to do stem as a way to try to accomplish one of my loving parents' dreams that they sacrificed so much for.,0,0
+142,my main reason for taking this class is to prepare myself for my future studies and eventually my future career goals.,0,0
+143,"furthermore, conceptual physics has always been something i enjoyed because it helps frame a sense of grounding to rest upon when thinking about my place in the universe.",0,0
+144,i am here to take the lab to physics 101.,1,1
+145,to achieve this i have enrolled in this class to lighten the weight of chemistry 215.,0,0
+146,"in order to become a licensed psychologist, i need to graduate from a university first.",0,1
+147,i didn't really think about what i want to do.,1,1
+148,"in high school, we mainly learned about newton's law and what forces are.",0,0
+149,"at pretty much all the medical schools i am looking into i need one year of general physics, general chemistry, and general biology.",0,1
+150,"coming to san francisco state university was not easy at all, especially the language, community, environment, and the surroundings.",0,0
+151,"i think firstly that i had a good time learning physics in high school, so i already had an interest in this so i can also complete my requirements to graduate.",1,1
+152,i am even seeing similarities in my chemistry and math class so by taking this class it is strengthening my overall knowledge and helping me reach my goal of majoring in biophysiology.,0,0
+153,"biologically, i am here because of my parents, but i choose to stay here because i want to be here.",1,1
+154,"ive been in the workforce on the recruitment side, and in the bay area i see how recruiters skim resumes, and if a degree isnt on there, they go to the bottom of the pile.",0,0
+155,"as i got older, i started to realize the complexities of the machine and all the different aspects of the industry which only made me more fascinated.",0,0
+156,"this class will help me further my understanding, and more importantly have me continue on my major pathway.",0,0
+157,"i love the excitement, the knowledge, and the help i would put towards others as a nurse.",0,0
+158,i am here in this class because i want to do good in my organic chem class.,1,1
+159,"in the end, i decided to make sf state my home because i wanted to get away from home yet still be in the vicinity.",0,0
+160,"in that case, i am very relieved.",0,0
+161,"im honestly glad she did, i feel as though ive gained more confidence and ive found that i like being independent.",0,0
+162,"i'm also in this class because i genuinely enjoy doing labs especially physics labs as opposed to just a lecture, it helps me to get a better understanding of physics concepts so everything isn't just math and formulas.",0,0
+163,i'm in school because i want to be successful not because i have to.,1,1
+164,"i really love biochemistry but some of the requirements, like physics and organic chemistry, arent my favorite requirements.",0,0
+165,"sci 121 is also a good class for me because it fits my schedule and i can get free help like packets, tutoring and exam previews for one extra credit.",0,0
+166,"another reason i am here is to prove to myself that i can do it, if nothing else i can definitely say that i tried!",0,0
+167,its actually a question i ask myself more often than i realized.,0,0
+168,physics complicates more general life interactions so that i can look at what happens more complexly.,0,0
+169,i am here to learn and succeed in my ochem lecture.,1,1
+170,if it is all around us we should understand its existence and the purpose that it brings us.,0,0
+171,"what i do know is that this class, this job, this school, this major are all stepping stones to where i am supposed to end up and that is why i am here.",0,0
+172,"id like to say i'm pretty good at biology, chemistry, and math but when i come to physics i'm completely lost and almost have no interest.",0,0
+173,i want to make a positive difference in my community and help many families.,1,1
+174,i have always been fascinated with doing hands on work and trying out experiments.,0,0
+175,i am here to discover the joy of life.,1,1
+176,"now talking about in general, i feel like my purpose in this world is to make a positive impact on people s lives.",0,0
+177,i am here to become stronger mentally more educated.,1,1
+178,i have always enjoyed going to school and learning new things.,0,0
+179,i am here in lab class to get a better understanding of my physics lecture classes.,0,0
+180,another reason why i took this class is to meet new people as it good thing to make more friends.,0,0
+181,i also learn how to collaborate more with my peers and ask more questions.,0,0
+182,"before moving to san francisco, i was a regular volunteer at the san diego humane society, my local animal shelter, for nearly three years.",0,0
+183,the future of technology is very bright and i can see it continuing to evolve as time goes on.,0,0
+184,my friend passed away recently from a disease.,0,0
+185,"i dont have any prior experience with physics classes, but i am looking forward to learning and strengthening my knowledge on this subject.",0,0
+186,so that is what i am doing here.,0,0
+187,"i'm partially here because this class is for my major, but i am also motivated to learn something new.",0,0
+188,i really want to keep learning.,0,0
+189,"although i am not a physics major, i need this class and physics 2 in order to get my undergraduate degree.",0,0
+190,"i guess it's called the ""american dream"" that people would believe they'll be able to achieve.",0,0
+191,i am here to fulfill a covenant with myself and become an electrical engineer.,1,1
+192,that everything i do with my life will not only help my family but everyone in my community.,0,0
+193,a question that can only be answered within your inner self.,0,0
+194,"i want to challenge myself and help my imagination with concepts like relativity and string theory, which can lead to great discoveries, like computers and lasers, that lead to technologies which change our lives, since we live in silicon valley.i heard that physics is very important because you learn how healing joints, to curing cancer, to developing sustainable energy solutions are shown in physics.",1,1
+195,it is not my time to die yet.,0,0
+196,i have to take these courses because its a requirement for all biology majors.,0,0
+197,i wouldnt take this course if it werent on the pathway to biochemistry.,0,0
+198,im here to make myself proud and to make my family proud.,0,0
+199,i do not want to be stumped on a problem because i cannot imagine what it is supposed to look like or what it is meant to represent.,0,0
+200,i am honeestlly confused on if its talking about this class or in general.,0,0
+201,i am here because i am human.,0,0
+202,"speaking as a doctor, i'm here to heal them and make sure i do everything i can to save their life.",1,1
+203,i always excelled in the life sciences and their connection to the real world always seemed to grasp my attention.,0,0
+204,i am very passionate about sports and being in that atmosphere will keep me motivated and able to understand the physical and mental struggles that athletes go through.,0,0
+205,"the labs so far are pretty cool, although they tire me out a little bit and can be somewhat confusing.",0,0
+206,"you may not know that i am a person who partial on science, my liberal arts is not that good.",0,0
+207,stem research is a collective effort that builds on top of each other.,0,0
+208,"also, i am excited to meet some of my classmates as some of them may have more knowledge about physics than i do so they can possibly help out if i don't understand something before i ask you.",0,0
+209,does purpose define life?,0,0
+210,"first of all, i need this class to fulfil my units because in order to be qualified for financial aid, i must need at least 12 units and above.",0,0
+211,it seems pretty simple so far but i am taking a lot of classes.this class seems fun so far experimenting with stuff.,0,0
+212,trying to be successful during this class so that i could take physics 2 and finish my requirements.,0,0
+213,"also, i am still very new to physics as i do not recall much from my previous physics class and was very bad at understanding how motion works in general.",0,0
+214,"i lived in mexico for almost half my life and i know how bad the situation over there is, you cant really succeed and when the opportunity to move to the usa and have a better life came up it was something i couldnt say no to.",0,0
+215,5 minutes to talk about why i think i am here..,0,0
+216,i love animals and i am 100 sure i want to spend the rest of my life helping them.,0,1
+217,"i hope to master this course as well as the next required physics course, so that i can hopefully tutor other students that are struggling in stem, just like i am.",0,0
+218,"the reason why i came to this major , which lead me to take this class, is because i am fulfilling my goal into getting into medical school.",1,1
+219,living in a low income area of oakland made certain things to comeby.,0,0
+220,"even in school, i tried to be involved with stem related activities because it had always interested me.",0,0
+221,reflective journal essay 1 the question why am i here? can be interpreted in many ways.,0,0
+222,schooling is important because after we are done we will be released into the world with the ideas we have been forced to learn and with all that information we have to make money.,0,0
+223,i want to research infectious diseases but also have the ability to treat patients.,1,1
+224,this class will definitely help me get a good grade chem 115 which is my goal this year,0,0
+225,"""why am i here?"" the obvious reason why am i here is because this class is required to take for my physics class 230.",0,0
+226,"because of breakthroughs in the past we have eliminated lots of diseases like smallpox and polio, diseases that have decimated millions in the past can now be eliminated with a shot.",0,0
+227,i think learning the basics of how the world works around us is very important.,0,0
+228,"it was a big before the exam, going through some mock exams and asking any questions for certain questions that i didn't understand or that the whole class did not understand at all.",0,0
+229,i am here because the only thing i want fo be when i am older is successful.,0,0
+230,"i am in this sci 111 class, because i have never taken physics in high school and i know that physics requires a lot of math in which i am very weak in.",0,0
+231,the reason why i want to go into the stem field is due to mainly my parents pushing it on to me.,0,1
+232,the alma journal was onlhy at 182 words.,0,0
+233,"so long story short, i join this class in order to one day help design and build the first affortable submarine car.",0,1
+234,you might think physic is not relevant to research and business but they are connected.,0,0
+235,"i want to pass this class with a high grade, so i will try my best to stay on top of my assignments.",1,1
+236,i am here in class on a tuesday afternoon in terms of taking physics 242 because i need it to graduate.,1,0
+237,"all things considered, these are all the reasons i am here.",0,0
+238,"ive always wanted to be a doctor ,even as a child.",0,1
+239,in order to achieve my true goals in life i have to be right here.,0,0
+240,in deciding to enroll for those classes and committing for a while it was clear to me that an education in the stem field would suit me perfectly since i rater enjoyed covering math and science subjects in school.,0,0
+241,i want this work ethic to continue this way until the end of the semester.,0,0
+242,im inspired by my parents and i hope to make a bigger positive impact in other strangers' lives.,0,0
+243,i also feel that there is no such thing as learning enough so i know that there is always something new i can learn here whether its a harder problem or just going more into details with definitions of topics.,0,0
+244,i never thought about this question before or how i am suppose to answer.,0,0
+245,every person ive met before this point was meant to pass by me and give me some kind of influence so i can harbor the best self i can ever hold.,0,0
+246,honestly i can rant about any of the above choices that i mentioned but i think your question relates to either why am i taking this supplementary course or why im at this school.,0,0
+247,not necessarily sure.,0,0
+248,i am not planning on majoring in physic or go into more details physic ideas.,0,0
+249,"as of right now my career path is very murky, like it changes daily kind of like i want to do a lot of stuff, experiencing many different things.",1,1
+250,she saw it as a massive waste of my time and future were i to pursue it further.,0,0
+251,"my goal is to graduate in four years and in order to do that i have to sacrifice my mornings, so that i could take my classes early and have more time in the afternoon to either work or get more classes to take.",0,1
+252,i have programmed a raspberry pi and arduino but most of the actual building of the robots and circuits was through kits with directions and i didn't feel like i really understood the wiring of the robotics so i knowledge of circuits might give me better intuition of building things that aren't pre built projects with directions.,0,0
+253,i hope this subject will teach me at least something valuable i can use in becoming a software engineer.,1,1
+254,"but to answer the question in it's entirety, i'm here taking general physics because it's a prerequisite.",0,0
+255,this means that i am going to need to understand some of the material that i learn in physics for my specific major.,0,0
+256,"three years later, i came back to this school to finish what i have started and i am not stopping and definitely do not plan to repeat any of my major required courses.",0,0
+257,even though i hate going to school a lot i still force myself to go cause i want to be able to reach my career.,1,1
+258,"i am here to build a life for myself and am starting with getting a good grade in physics, and this class will hopefully enable me to do so.",1,1
+259,but i am also here to better myself as a person.,1,1
+260,but why am i in this class?,0,0
+261,"also, discover myself and what i want.",0,0
+262,"since my major is prebiochemistry, taking this class will assist me in my completing one of my major classes required for me to graduate.",0,1
+263,there are still things to uncover and understand in stem and i want to be part of the team that does it as it's quite a feat.,1,1
+264,i am taking a sci helper class to better understand what i am learning in class.,0,0
+265,"i can understand xus lectures just fine and it makes sense when he walks us through our problems and worksheets, but when it comes to our homework, i end up getting less than about 60 and it does not teach you how to do the problems when you get them wrong.",0,0
+266,"im still a psychology major because i sent in an application a year ago and this summer got changed to it, but im changing it to biology with a concentration of zoology.",0,0
+267,learning about that and being able to help another person life is success and providing for the community around.,0,0
+268,that is not to say that i am disinterested in physics.,0,0
+269,i'm afraid of asking for help.,0,0
+270,"during high school, i took many advanced classes focused on science and math facing majors.",0,0
+271,having to do this assignment is a waste of my time and i would much rather be watching a physics related video and write about it than this random unrelated question.,0,0
+272,all i ever want to do is smoke a joint and play video games.,0,0
+273,apart from this class being a requirement for me this class is pretty interesting.,0,0
+274,another reason i am here is because i want to be able to help others by learning something myself.,0,1
+275,what would be the point in living?,0,0
+276,a semester closer into helping others.,0,0
+277,my goal for this course is to stay on top of my game and pass all the exams with a b or above.,1,1
+278,thank you for the opportunity to learn about physics and how experiments are done in a laboratory.,0,0
+279,"but i think the main important reason as to why i am here is to not only make the troubles and contributions that were done for my sake to not be wasted, but to really find out if the path that im set on now is my purpose.",0,0
+280,the final reason is that it pays well.all of these reasons kind of link together.,0,0
+281,school is not about just participation and attending to do minimally get good grades.,0,0
+282,i am specifically here in this class because i want to succeed in general chemistry 215.,1,1
+283,i am here to help make a better life for my parents.,0,1
+284,but the reason why i keep going is for my family.,0,0
+285,"i decided to attend san francisco state university for this major because the major was not impacted, it is an easy commute from home, i like the city of san francisco in general with its historical places and famous pier 39, and sfsu is where my brother attended and he graduated from this institution quite quickly.",1,0
+286,this is my second time taking physics.,0,0
+287,"however, if you were to ask me why i am in this particular physics course, the honest is reason is that because it is required for me to take if i want to earn my degree in biology.",0,1
+288,i guess my purpose is just to get my degree in biology and work at a lab.,1,0
+289,again i hope this works out.,0,0
+290,"i don't want to be here because it is a ""requirement"" but i want to be here because i want to learn from it.",1,1
+291,i hope this semester will not only challenge me but also encourage me to not give up on struggling situations and be able to preserve until the end.,0,0
+292,this allow me to focus on what i really need to study for the exam.,0,0
+293,"i am a christian, so i believe our existence has purpose.",0,0
+294,i am here because this is the only path in life that i can see myself taking.,0,0
+295,i am here to learn the basics required to become a physician.,1,1
+296,sometimes it is hard for me to open up when i do not understand something and often i think that i have to figure something out individually.,0,0
+297,"i believe that everyone in the world can learn by giving attention to the ideas, cultures, and opinions of others because it can be a valuable contribution to ones way of thinking.",0,0
+298,after a decade of working and being able to take one class here and one class there i joined the army as a medic and pushing through the exhaustion of working as a healthcare worker during the pandemic and taking an online class (which is super hard to do because i thrive on in class learning).,0,1
+299,"i am someone who loves interacting with people, and i like working in groups.",0,0
+300,"with that in mind, for some reason, i felt i had to attend sfsu to get to where i wanted to go and to learn what i had been missing.",0,0
+301,im here to learn from all of my classes and carry on the knowledge throughout my life.,0,0
+302,even with this kidney stone i still do my best to come to class through the pain.,0,0
+303,that is what i am in school for but it is not going so well.,0,0
+304,this purpose i believe is not the only one though.,0,0
+305,"this way, i will be able to work in a lab, knowing that i am helping the health of people all over the world.",0,0
+306,i have a strong interest in focusing on mammals or marine biology when it comes to an even more specific focus.,0,0
+307,"hard work that will require a lot of energy, such as sleepless nights and lots of studying.",0,0
+308,everyones purpose is different.,0,0
+309,sometimes i am not ready for things and rush into them.,0,0
+310,joining this class will help me prepare for future lectures i will have in chemistry 115.,0,0
+311,i want to make things that my family living over there can benefit from.,0,1
+312,"i also need physics to get into the medical school i want to get into, but i really enjoy physics and the challenging problems it brings.",1,1
+313,"physics for a while seemed daunting and kind of boring too, but now that i am in the class i am excited to test and challenge myself with what this class has in store.",0,0
+314,the lab is a requirement but it will still be interesting to see the ideas in motion.,0,0
+315,im here because i still confuse on when to use derivatives and when to use antiderivatives.,0,0
+316,"however, because phys 112 is mandatory with phys 111, here i am.",0,0
+317,physically i am in this class i am here because i want to graduate from college and i need these credits plus i like learning about astronomy.,1,1
+318,i am also here so that my family sacrifices to put me through school aren't in vain.,0,0
+319,many people now have a stem education and careers.,0,0
+320,"however, it's not too bad i've always excelled in science and math, but due to my poor work ethics, the damage is evident in my past grades.",0,0
+321,"this course will also benefit me in case i decide to take the second physics course, physics 121, later on.",0,0
+322,im in this class because i know i struggle with math a little bit and it doesnt help that we only have an hour class when im used to learning things in a longer period of time.,0,0
+323,"this included online banking, bill pay, mobile deposit, and more.",0,0
+324,"now, as to why i appreciate being here.",0,0
+325,i have little to no interest in this class.,0,0
+326,physics can help provide deeper levels of a subject and can be beneficial in daily life scenarios which can improve your problem solving skills.,0,0
+327,"which sucks because to be educated you have to go to an institution, take tests that cost money, pay for college applications, and all that hard work needs to be done because to be successful in america you must have a degree.",0,0
+328,"personally, the reason why i am here is that i decided to study physics to do research and business.",0,0
+329,"my record has accumulated countless w's and a few class failures, mostly reconciled.",0,0
+330,"one of the greatest scientists, einstein, says, the most important thing is not to stop questioning. as he mentioned, physics give us a tool to have questions for everything.",0,0
+331,"what i'm planning to learn in this class is how things move and to be able to apply it to the real world, a.k.a., driving a car or a plane flying.",0,0
+332,"i took physics in high school and really enjoyed it, so i am hoping that the experience extends into college.",0,0
+333,"after all, hearing the statistics of 80 of sci students pass the parental class motivates me to part of sci 220.",0,0
+334,as for why i am on this.,0,0
+335,this includes chemistry 115.,0,0
+336,"with these tools that i hope to sharpen up during my time here at sf state i would love to enter the medical field either as a physician assistant, lab researcher, pathologist, etc.",0,1
+337,"originally i wanted to be a computer scientist coder and learn how to hack, but after realizing that coding wasnt for me i drifted apart from that idea because it ended up not working for me.",0,1
+338,"i am able to teach the concepts to other people and that makes me learn the concepts more as well because i am recalling them and using nothing to reference, but my brain, on what to do.",0,0
+339,this has been a dream of mine for a while and i have stuck to it ever since it became just an idea in my head.,0,0
+340,i passed the class and enrolled into physics 121 and 122 to complete my pathway to continue on to earn my biochemistry degree in the future.,0,1
+341,"in the meantime, i want to enjoy the new things that i will learn in this course that will increase my knowledge in real life experiments that are related to physics.",1,1
+342,"i like to learn about how things work, i think physics is one of those branches of science where you really learn the purpose of how mechanical, theoretical, and even practical scenarios meet and can potentially explain the world.",0,0
+343,i am here because i was put into this world for a reason.,0,0
+344,i'm looking forward to understanding and growing my knowledge of physics.,1,1
+345,i am here because my long term educational goal is to get a phd in food chemistry.,1,1
+346,if we are talking about why am i at sfsu it because of the great kinesiology program that is offered here.,0,0
+347,i need help in understanding how i can improve myself to be better for a specific problem i have during lectures in chemistry 115.,0,0
+348,i want to help people and connect to patients.,0,1
+349,i want to become a doctor which requires a lot of science classes.,1,1
+350,such as getting onto an airplane and for takeoff.,0,0
+351,i really hope this class continues to help me prepare for a physics tests as physics has so many problems and many formulas attached to it.,0,0
+352,i see physics labs as a better way of learning physics.,0,0
+353,"i am here to make those before my proud, to show them that we can make it, that we are worth more than people perceive us as.",1,1
+354,right now my purpose in life is to just get through this pandemic because i just want it to end and i want things to go back to normal.,0,0
+355,i have learned so much these past few years in college and have grown as a person.,1,1
+356,"furthermore, taking this class will help me clear prerequisite for high education as medical school as their is certain prerequisites that have to be cleared before applying or your chances will be dimmed.",0,0
+357,"also, i have always been interested in the physics because most of the things in this universe follow the laws of physics.",0,0
+358,"even though this course might be a requirement for me, i still think that the materials that we will be learning throughout this semester will be essential to my learning and understanding of our current world.",0,0
+359,"i plan to put 20 hours a week towards calculus two, with this supplemental class to give myself a steady foundation.",0,0
+360,i am here because i have a goal of becoming a physical therapist.,1,1
+361,"so knocking out health and the main variable in life ""money"" at the same time could potentially help me in my future.",0,0
+362,i feel hopeful in my tiny place.,0,0
+363,"i feel that going through that amount of schooling and gaining all that knowledge will make me pretty satisfied, and i will be able to lead a happy life with the career opportunities that follow.",0,0
+364,"good afternoon, or whatever part of the day you're reading this during, i hope its good.i am here in this class because i want to major in mechanical engineering, and this is the last physics class that is required for my prereqs (yay!).",1,1
+365,"i dont care whether it is small or big, i would be grateful for either.",0,0
+366,im here because i want to pursue a career in the medical field.,1,1
+367,"of california, san francisco, and get a good job upon graduating.",0,0
+368,"many tech companies such as ;apple, google, tesla, settle in this bayarea.",0,0
+369,ive been wanting to be an engineer for basically as long as i can remember so its no surprise that im in a college...,1,0
+370,in general i am here because i want to be here.,1,1
+371,i also will have to retain this information as i also need to take physics 2.,0,0
+372,this is because math and science has usually always clicked with me and because physics does not click in my head automatically without lots of thinking i become stressed and worried that i will never be able to understand the material enough to pass the class.,0,0
+373,physics is very useful and that is probably the only thing that makes it interesting to learn it.,0,0
+374,i dont want to fail again and i also would like to understand it.,0,0
+375,"ive lived near a city, los angeles to be exact, and sometimes i regret not staying in southern california to pursue my career.",0,1
+376,"science is constantly evolving and improving, but now we need a nother big shift in technology to be able to help change this world for the better.",0,0
+377,i started working right out of high school and it took me a few years to really gain the motivation to go back to school and transfer from my community college.,0,0
+378,with my degree i plan to get a good career and pay off my loans.,0,0
+379,"with the material and short lectures it is very easy to become lost and confused and next thing you know, fail.",1,0
+380,"one, i have always been a techy!",0,0
+381,i've taken online classes before but having all of my major courses online is difficult.,0,0
+382,i would like to be a cardiothoracic surgeon.,1,1
+383,"he thinks im here to feed, pet, or amuse him, at his discretion only.",0,0
+384,this is why i'm here.,0,0
+385,i work better in groups than myself because i feel like different opinions and ways can help me understand how to solve the problem.,0,0
+386,as a kid i never would have pictured myself here today.,0,0
+387,i am here because i want to try to do better in my physics 111 class.,1,1
+388,i want to be a cardiothoracic surgeon.,1,1
+389,"it is important for me to pass this class, so that i can pursue my degree in helping me towards finding a wellpaid and decent job im most passionate about one day.",0,1
+390,i'm here because i would like to pursue a career in bio physiology.,1,1
+391,i am here in this class to get to where i want to be in the future.,1,1
+392,jordaan render phys 102 reflection 1 why am i here?,0,0
+393,"honestly, i think i'm here by some sort of luck.",0,0
+394,and i belong to the school of thought that you shouldn't dwell on these things too hard if you want to avoid an existential crisis.,0,0
+395,it should be mine too then.,0,0
+396,the reason why i am in this class is because of how i know that this will assist me in reaching my goal.,0,0
+397,i wasn't sure what i wanted to do as i was heading into college but my decision to major in computer science wasn't completely influenced by my family.,0,0
+398,i am looking forward to learn about physics in your class.,0,0
+399,inall honesty if i had the choice to be taking physics 2 i really wouldnt.,0,0
+400,"at the moment, i want to be a therapist, although im not sure if i want to specialize with families or individuals, i do know i want to be there for people and be able to bring some relief to their lives.",1,1
+401,building and working with the earth will use a lot of my understanding of physics.,0,0
+402,milka abdosh why am i here?,0,0
+403,leaving home will make me more independent and grow as a person.,1,1
+404,and they are essential to one's academic success.,0,0
+405,i am glad i am taking this course because i think it will help me with my future career in environmental science.,1,0
+406,i took this class last semester with haji and i ended up with a d.,0,0
+407,"the last lab was pretty interesting and i enjoyed it because i got to communicate with my partners to try to figure out the work in front of us and that is what i hope will continue to happen in this class, this is why i am here.",0,0
+408,i want to be able to learn and understand more about what i observe over what i see everyday in the sky or even around me.,1,1
+409,"3 years ago i was living on the east coast and was wanting to go to college there, but then i decided to move out to california with my mom.",0,0
+410,"for change, i am here to change my life others.",1,1
+411,i guess my purpose in life is to live my best life.,0,0
+412,"the reason i am majoring in bio, is because i think into whatever field i go into i can make a difference.",0,0
+413,i am currently taking physics 112 for many reasons.,0,0
+414,i just finished my undergraduate courses and now taking that classes that the program is looking for.,0,0
+415,i think you could interpret this so many different ways.,0,0
+416,i have to blame my mom.,0,0
+417,i am in this sci11502 supplemental course because i know that i will end up struggling with future topics in chem115.,0,0
+418,"""why do i want to go into the stem field?""when i was younger, the desire to go into the stem field was largely influenced by my parents and their dreams after immigrating here from bangladesh.",0,1
+419,"i think labs are about looking in depth after having a result or data in order to prove your answer, so by taking this lab i can learn to elaborate more and expand my thoughts.",0,0
+420,this is why i am here at this school and in this class.,0,0
+421,"last year i took astronomy 115 to understand the actual science side behind time, space, and planets.",0,0
+422,i also decided to attend classes at sf state because i was born and raised here and i went to high school right next to state at lowell high school and wanted to stay somewhere in the city or near the city to save money and also stay close to my family.,0,0
+423,"ever since i was little i wanted to be a doctor, so much so that i can't see myself doing anything else.",1,1
+424,i think it will increase the magnitude of the impact on others lives.,0,0
+425,its different because i moved to a different city.,0,0
+426,"often times in the super 'stem' classes like bio or chem, the kids are so competitive and it becomes this glorified competition, not about that.",0,0
+427,i have a pretty tight group of friends at home that i live with.,0,0
+428,"however, i would say that i am here in this class, at this school, and on this earth due to change and my drive to achieve the goal that every human strives to attain which is living a healthy and happy life.",0,0
+429,i really want to be able to make a change in people's lives.,0,0
+430,im here because i want students to experience the opportunities and community that i have built when i took the sci 115 class myself.,0,0
+431,"i know this journey will not be easy, i but i am doing my best, studying hard, and trying to accomplish my goal.",0,0
+432,education is important to me.,0,0
+433,i'm here because i want to become a doctor in the near future.,1,1
+434,i know that i still have years until i finish my life academically but i know that i want to do everything to help my community.,1,1
+435,i hope that after taking this class i would be more confident in tackling physics problems and applying it further in my field especially since i am interested in biomechanics.,0,0
+436,physics is in everyday life so this class will come in handy.,0,0
+437,i believe that physics will enrich my life in so many ways.,0,0
+438,reflection 1: why am i here?,0,0
+439,"i want to be able to make my parents, family, and friends happy because of what i can do and show them that i can do it.",0,1
+440,it was just ok.,0,0
+441,i am here in your physics 112 section 9 class because i want to learn and experiment on how physics works.,1,1
+442,i did very well in physics 220 but physics in general gives me anxiety.,0,0
+443,there are a couple of reasons why i want to go into the stem field.,0,1
+444,ive accepted that i can do science and that has been a journey all in its self.,0,0
+445,i m here in college because i want to pursue an education in biology and get a ph.d. in the immunology field and study diseases.,1,1
+446,"especially with weights and machines, physics will be useful for measuring a persons limit and how far to push their bodies while exercising.",0,0
+447,"honestly, i just want to be financially stable for later in life, work in a field and profession that i am fairly passionate in, and to make my parents proud.",0,0
+448,my now self and my future self.,0,0
+449,im most excited for the experiments because i like being handson so its a little sad that most of our labs are going to be done online with stimulations.,0,0
+450,"therefore, i am here today to become a professional with my degree :).",1,1
+451,i think i will be a more competent and knowledgeable biologist with a solid understanding of physics.,0,0
+452,the reason i am here is because i want to be able to help others in the future.,0,1
+453,i just know that i like science and math and i enjoy learnig different subjects and different perspectives of theses subject.,0,0
+454,"although i'm admittedly exhausted, and the pandemic does chip away at my motivation sometimes, i have a lot of goals and things that i want to accomplish, and this class just so happens to be along the way of the goals that i want to reach!its a little difficult to find more things to write about since im tired, but i hope that things (classes, grades, health, family) go smoothly and that this semester turns out to be alright despite the numerous variables that are bound to go against us at some point.",0,1
+455,i am here right now because attendance is mandatory and i cannot do the work if i am not in class.,0,0
+456,i know physics plays a role in kinesiology since it used in biomechanics.,0,0
+457,"as a latino with traditional latin beliefs, my mother being mentally sick was a major scare for the family.",0,0
+458,by taking this physics course it will allow me to take that extra step forward to achieve my goal.,0,0
+459,"to have this kind of basic understanding of physics helps me realize the importance of my life in this present moment, i am in a crucible of knowledge that i can soak in and construct a new found appreciation of the world i am in.",0,0
+460,she seems like she actively cares about her students and wants them to succeed.,0,0
+461,ive taken previous sci courses and they have helped me with understanding topics that are complex.,0,0
+462,i am here to learn from my studentspeers and to grow from their feedbackadvice.,1,1
+463,in terms of why im here like why do i exist or why am i? i would say because of my parents choosing to have me.,0,0
+464,i am here because i want to be here.,1,1
+465,"i am a second year student at sf state, major in computer science.",0,0
+466,"being biracial has been a huge part of my identity and experience of who i am growing up and so learning that sfsu was so hyperaware (example, i took a mixed race identity class) was a huge reason why i love sfsu. also",0,1
+467,"my whole reason for being in college is to go to med school, the classes i take are all classes that i need to complete in order to fulfill my dream of attending ucsf. i want to attend a great medical school so that i can move on to being a trauma surgeon in the future.",1,1
+468,"i also am here because i know that i am not the only one who is struggling, and seeking help.",0,0
+469,"i actually took the astronomy lecture about 3 years ago, so much of the information i learn in this lab are very distant from my memory.",0,0
+470,"jessica yepez rangel phys 011208 9320reflective journaling 1:""why am i here?""i am here taking general physics laboratory because i have always been interested in learning how the universe works.",0,0
+471,"i am here because of everyone who gave me strength to continue, whether it be right or wrong.",0,0
+472,i am here because of covid19.,0,0
+473,"weve been bros for a few years now, and we all work together and just mess around all the time.",0,0
+474,i want to become a doctor because i really love to help people and also it would have pretty decent pay.,1,1
+475,im here to finish the lab today and get the assignment done for this class.,0,0
+476,"meanwhile, i'm here in sfsu because i want to graduate with a biology degree with an interest in physiology (i'm a senior but i may need one extra year), and phys 121 and 121 are my last lowerdivision prerequisites i need to fulfill so i can unlock more higherdivision classes.",1,1
+477,"i want to be a role model for my siblings, so they can have someone to rely upon.",1,1
+478,plus it has a beautiful campus in the middle of the city where everything is closeby.,0,0
+479,i am here at san francisco state to recieve a formal education and strive for my ba in computer science.,1,1
+480,"i am student name, and i am an international student from india.",0,0
+481,"why am i here, i am here because i want to become a doctor and go onto medical school.",1,1
+482,"in sci 240 class, i want to improve my teamwork skills and communication skill.",1,1
+483,"i am here to also show to my family, friends, and other latinx women that it is possible to do this and to pursue a career in a stem major.",0,1
+484,"i decided to take this class primarily to get a better grade in physics 111; i have never attempted a physics class, so conceptually this is all very new to me.",0,0
+485,i am here because i need to take a lot of science courses to get to the career that i want.,0,0
+486,"when the video showed what a day would look like as an occupational therapist, i was truly inspired by her work and how much her patients meant to her.",0,0
+487,i do not want to be stuck in retail for the rest of my life.,0,0
+488,this is essentially why i think i am here in this course.,0,0
+489,"the good thing is that everyone has their own definition of success, but mine will be reliant upon whether or not i can go above and beyond the goals that i have set for myself.",1,0
+490,i am here because not only is this class a prerequisite for my upper division classes for my major but also because i always wanted to learn the fundamental concepts of physics.,0,0
+491,this will help people come up and generate new ideas when working on a certain task.,0,0
+492,"i started this new journey 1 year ago, and the pandemic as accentuated my satisfaction with the decision i made.",0,0
+493,"i am here to be a better version of myself, and continue to grow thrive, and leave an impact on others.",1,1
+494,i am in this class because it is a requirement for my major.,0,0
+495,i want to be the first in my family to graduate and become a doctor.,1,1
+496,i also live very close by so it was convenient to come to this university.,0,0
+497,it was my choice.,0,0
+498,and i am here to ensure that my future involves me being happy and also being comfortable.,1,1
+499,i am here attending sfsu to achieve higher education but also to hopefully find a career.,0,0
+500,i want to travel the world and learn about different cultures.,1,1
+501,this class is one the required prerequisites for my major and any biology concentration i would want to pursue.,0,0
+502,as a future doctor i am required to take the mcat which is the medical entrance exam.,1,1
+503,it took a few bumps in the road to get my stuff together and choose a major but i'm grateful it happened.,0,0
+504,also learning physics is important to me because it is a course that has a lot to do with my planned career.,0,0
+505,"im happy that i get a chance to learn things in a new way, and that goes for all the courses im taking this semester.",0,0
+506,i am hoping that this class will also take some stress off of the studying aspect of chem 180 and will allow me to study better by having perfect opportunities to discuss the material with the instructors and with my classmates.,0,0
+507,i am still very young so i will figure it out.,0,0
+508,my family has always stood behind me after so many hings have happened.,0,0
+509,i hope that this lab class will further my knowledge and interest in future physics courses.,0,0
+510,"i also like the fact that i can ask the sci instructors questions about chem 115 material, questions regarding calculations, alex homework, and upcoming exam material.",0,0
+511,"and not just that i just also wanted to get an interesting job that is based on tech ( or maybe a job that is not based on computer science, but at least interesting).",0,0
+512,i often wonder what is my purpose for living.,0,0
+513,"astronomy specifically was a big part of my childhood because my dad had always been obsessed with the stars, space, and science as a whole specifically when it comes to astronomy, the environment, ecosystem, etc.",0,0
+514,my passion is biology and this class is a prerequisite.,0,0
+515,i am a general biology major because i want to go to dental school and become an orthodontist.,1,1
+516,"although it is harder to do that in the time that we live in, there are still ways to prove this to be true.",0,0
+517,i have never taken a physics course and all i ever knew from physics was the information told to me by my friends.,0,0
+518,"therefore, ive chosen to go to college to enhance my knowledge.",0,0
+519,"i don't know if i want to be a physical therapist or not, its just one of the most successful careers to pursue in my major.",1,1
+520,the reason why i chose to come to sfsu is because i love the weather especially when its dark and cloudy.,0,0
+521,why am i in college?,0,0
+522,i am here to get a great grade for my chem class.,1,1
+523,i am here in a sci course because i have an awareness of my chemistry and math abilities and i know that i could use the extra help.,0,0
+524,"for me, i would say that i am here in lab tonight because i am working towards a mechanical engineering degree and this was a mandated course.",1,1
+525,"it will also prepare me for general physics 2, which will hopefully help me down the road somehow when i am in pharmacy school.",0,0
+526,i would prefer not to go to school and learn on the job but despite my preference i have to go to school in order to live a life of drawing layouts and floorplans.,0,0
+527,i also want to really make my family happy with being able to become a doctor.,1,1
+528,"in college, i find joy in taking new biology courses and learning new things that i didnt know before.",0,0
+529,i chose to come to sfsu in order to still be close to home and limit debt as much as possible so early on in my life of learning.,0,0
+530,the fact that we cant see these forces at work adds a bit to the mystery and excitement of this material.,0,0
+531,"and with that, i am done.",0,0
+532,i then chose to go to college in san francisco because it was a city i always loved ever since the first time i went i fell in love and its a place where i wanted to learn more.,0,0
+533,i found it hard to not have encouragement to finish school and becoming something i wasn't sure about and being told to finish school and that i was suppose to become those things.,1,1
+534,so knowing im not alone and having support is great.,0,0
+535,i feel like i am meant to be here.,0,0
+536,"but since coming here, ive felt like ive grown, but also i have no clue what i want to do in life.",1,1
+537,this is one of the many lower division courses i need to take before i can start to take the upper division courses for my marine biology major.,0,0
+538,"in order to get that far in my dreams, i obviously have to pass biology class.",0,0
+539,"i have learned that 305 is truly a fundamental class for engineering, and i am thankful sci305 was born.",0,0
+540,i enjoy being able to see the direct correlation between what i was taught and how it affects the world that i live in.,0,0
+541,i am here to make those dreams come true.,1,1
+542,i am here because i am trying to set out of the same routine of working 12 hours to sit by.,0,0
+543,i have met the most amazing people and had some really awesome experiences and travels.,0,0
+544,i am here in this physics lab because it's a requirement for my major.,0,0
+545,since i did not obtain my undergraduate degree in a stem i need to take all my prerequisites for medical school in my masters program.,1,1
+546,it's a nice opportunity to deepen my appreciation for space.,0,0
+547,"i am currently taking physics lectures, this class will help understand the material a lot better by having oneon one discussions with people in my lab and asking my instructor for a more detailed answer if i am stuck on a problem.",0,0
+548,"thinking from an evolutionary perspective, my purpose in life is to pass off my dna and produce offspring in order to keep my family tree going.",0,0
+549,"i am at home, lying in bed, because there is a pandemic going on in the world and now school takes place online through meetings on zoom.",0,0
+550,being able to get a good job in programming and making good money to repay my parents for all the help they have given me growing up is my reason for going into the stem field.,1,1
+551,"astronomy shares the unknown with me, and the beauty as well as the danger it holds beyond our earth.",0,0
+552,"i love biology and i want to use that love for biology and put it to use helping people, which is why i want to become a doctor.",1,1
+553,me being here is way more important than that though.,0,0
+554,knowing myself i know i will need to pass those exams to get the grade i want in than class.,0,0
+555,"growing up i thought i could get into those top school's like harvard, but my grades didn't reflect that.",1,1
+556,"people might say it is prerequisite to situs their major, and so on.",0,0
+557,i enjoy it because it is forced studying in a productive manner.,0,0
+558,i am taking this course to increasebetter my understanding of the concepts that i am learning in class.,0,0
+559,i'm disappointed that i neglected to take the class sooner and now i have to struggle to understand the concepts all over again.,0,0
+560,i dont think i like astronomy as much really any science except for biology and chemistry as they focus more on our bodiesare relevant to the human bodiesexperience.,0,0
+561,so in a sense i enjoy learning about physics because the underlying thought process shares common ground with programming.,0,0
+562,"i have learned a lot since being here and i cant wait to learn more not only about myself, but about becoming a doctor as well as learning new things in the world.",0,1
+563,"thats a question everyone should ask themselves at least once, especially in college, when youre on the path to starting a career, to really starting the life youll lead maybe for the rest of our lives.",0,0
+564,i am fascinated by the job and i want a career i can look back on and feel proud of my achievements.,0,0
+565,"because even though it doesnt seems like it i do see some connections between chemistry and physics sometimes such as thermodynamics and vectors also i believe that im here to give me more options of the path i might want to take as i go further in my studies such as a chemical engineering path or bioengineering and having these basic tools will help me have some footing in the subject of i decide thats what im going to do, also this class is important as in the stem field its used quite commonly as it can be so easily applied to the real and everyday life, so it also provides me with the basis of things i would need to apply to problems and thats why i believe i am here.",0,0
+566,i'm here in sci 111 because i want to successed in phys 111.,1,1
+567,its been fun working through the problems and picturing the scenarios.,0,0
+568,i know others might not really care about that but i think that's such an underrated characteristic to have.,0,0
+569,since i added later on in class i am not really understanding how the class structure works.,0,0
+570,why am i here in stem?,0,0
+571,"i was able to handle the course work during middle and high school, and the subject matter made was more practical and made more sense to me than other subjects.",0,0
+572,"i'm here in sci 121 because i need help with physics 121 and its lab class phys 122, which focus on electricity like electric fields, electric potential, voltage, current, batteries and magnetism.",0,0
+573,also physics ties back to all branches of science.,0,0
+574,during the summer of 2018 i began to have some interest in being an engineer.,1,1
+575,i am here to get a degree to make something of myself.,1,1
+576,focusing on problems with a small amount of people feels more productive to me personally.,0,0
+577,physics doesnt click to methe way it does to others.,0,0
+578,"this subject is intriguing, but i am pursuing a degree in apparel merchandising.",1,1
+579,sebastian johnson phys 112.03 912020 why am i here?,0,0
+580,"sci provides the opportunity to interact with a diverse group of students who all come from different backgrounds, who all bring different perspectives and ideas.",0,0
+581,"im not too sure if medicine is what i want to pursue, but if it is then i have to know physics for the mcat. if that is the case then i need this class to better prepare me for the physics portion of the mcat. i am a biology major so this is the last physics course i would need for the remainder of my undergrad.",1,1
+582,i really want to be the best scientist i can be and very much use my time wisely while i am in school to achieve and to strive far in school just like everyone else.,0,0
+583,"instead, she pushed me to join the robotics team.",0,0
+584,that is why i am here in college at san francisco state university.,0,0
+585,"for this physics lab, i am taking this course to fulfill part of my lower general education requirements for my major, kinesiology, and for more units.",0,0
+586,so i am here to accumulate knowledge so that i can hope to be successful.,1,1
+587,"i wouldnt be here if it wasnt for my parents constant support financially, physically, and mentally.",0,0
+588,"the same could be said for everyone else who has contributed to me, whether it was for my emotional health well being, physical health, a good laugh, time that was specifically for me, food, etc.",0,0
+589,there are two major reasons why we are here on this earth.,0,0
+590,therefore it sparked my interest to learn more about how things works and their relationship.,0,0
+591,"i am here because honestly, i have to take this class as a prerequisite for my major, which is general biology.",0,0
+592,it really fascinates me how you can actually use math to figure out how objects behave and why they behave like that.,0,0
+593,"i like all the clubs the school has, the programs, and the internships.",0,0
+594,"for me, being successful means working hard to make what you want to achieve possible, and staying focused on whatever it takes to get to that point.",0,0
+595,i want to make sure that i take advantage of the blessing that is getting education.,1,1
+596,the reason im here is because i need to get my college education from somewhere and from someone.,0,0
+597,this is one of the reasons why i pursue becoming scientist and studying physics in this class.,1,1
+598,my parents went back to school when i was little so they took turns working or in school as well as took turns taking care of me.,0,0
+599,"which means i am gaining knowledge that is not only taught by the professor, but also from my fellow peers.",0,0
+600,why am i at san francisco state university?,0,0
+601,i find the subject of astronomy to be very fascinating because i am always wondering how things work like in physics when you learn about gravity and light refraction.,0,0
+602,i am here because i want to gain more knowledge about physics and how i can apply it to my everyday life.,1,1
+603,"im not sure what it is, whether im more confident, or if i just dont give as much of a shit.",0,0
+604,another reason that i am in the sci course is to get a class unit so that i may be eligible for competition in my sport.,0,0
+605,i am here in this class because i had to enroll in it but also to actually learn the material.,0,0
+606,"mothernature's meaning of life is, life or death.",0,0
+607,"we find the laws from the chaos of nature, use the laws, and then explain all phenomena of nature.",0,0
+608,this is phys 222 so the labs are not that much complicated as higher level courses.,0,0
+609,i am now taking this class for my learning as well as for my major and i hope to do well in them.,0,0
+610,"also, i am taking this class to fulfill my prerequisites.",0,0
+611,the reason that i decided to join the sci supplement course was to try to get a better understanding of the organic course and make sure that i am able to leave with knowledge.,0,0
+612,whenever i am free i dedicate my time to others and that is why i am here.,0,0
+613,"life is hard, and the institutional oppressions that have held and still hold my family captive, as well as my community and others like mine, is something that i want to bring light to and tear down.",0,1
+614,i want to know what an ai needs to have the human thinking capability which would be really cool.,1,1
+615,"nonetheless, for the present i know i was placed here to be a sister, a daughter, and a friend to those who need my support.",0,0
+616,i want to be a veterinarian since i was little and it seems to be the only thing i want to do.,0,1
+617,i dont believe that i will use anything physics related in my future but getting the knowledge will be helpful.,0,0
+618,i am taking chemistry classes because i am majoring in biology in physiology as a focus.,0,0
+619,i want to go into the stem field to increase representation of poc in the field who are also women.,1,1
+620,i have learned that many of the different courses actually are related with each other despite being about different concepts.,0,0
+621,"but who knows, i cant see the future, and simply rambling to take up pace in this text box.",0,0
+622,i would like to learn other topics in relation to physics.,0,0
+623,one is obviously this class is a requirement for my general education credits and also because i thought it'd be interesting to further my education on astronomy.,0,0
+624,i am also here because i noticed everyone else trying sci courses and showing me how much their grades improved.,0,0
+625,i also hope to continue learning about something i learned in the pass more in depth .,0,0
+626,"if that was not the case i probably would not be sitting here in this class as i write about the topic simply asking, why am i here?",0,0
+627,"that we'll one day be nothing and slowly decompose or go to places like ""heaven"" and ""hell"".",0,0
+628,college has always been my first choice of what i would do after high school.,0,0
+629,i have goals that benefit not just myself but also my family as well.,0,0
+630,ive seen what good and bad doctors have done to people suffering from cancer and i would like to become someone that works in this field and treats their patients with care.,0,1
+631,i am taking this physics lab technically to meet the requirements for my major.,0,0
+632,"im not sure whether this question meant why am i in this class or why am i in sfsu but i think the reasons for both can kind of mesh together, im going to school and taking this class so that i can graduate, get a job, and just be more well acquainted with the subject and concepts of physics.",1,1
+633,i also need a certificate to get into dentistry school.,0,1
+634,i am here to excel in school and make my parents and myself proud by demonstrating that i am able to obtain a higher education and work at my dream job as a clinical lab scientist.,1,1
+635,i should be fine this time!,0,0
+636,i slowly became aware that san francisco is not where i see myself in the future but i am still here to gain the experience of loving somewhere new on my own and accepting the challenge of being independent.,0,0
+637,"whatever the purpose may be, if any, i know why i'm at san francisco state university, taking physics 112.",0,0
+638,"to show them that it is possible for us, the minority, to become leaders, role models and influencers.",0,0
+639,biology and chemistry courses have been great because they come naturally to me.,0,0
+640,personally i think living here was way easier than it is now as rent is super high and the cost of living has drastically increased.,0,0
+641,"the first three years i was an apprentice, and i learned a lot about my trade.",0,0
+642,"i am here because i want to better myself my family, not only financially but in health.",0,1
+643,"my mother used to quiz me on them from a young age, and i could watch tv excessively if it were medical dramas.",0,0
+644,so far i am understanding concepts so i am up to date and i have gone to the sb room 101 where they do tutoring and i figured taking a sci class will increase my chances of passing this class with an a or b. i am here because i want to become a dermatologist and knowing a little chemistry really helps me understand the chemistry of the elements around us and thus increases my knowledge of this type of science.,1,1
+645,i have dreams of traveling the world and trying different foods with my friends.,0,0
+646,overall i just want to learn everything that i can that will make it easier for me in the future.,0,0
+647,"i took physics in high school and found it pretty interesting, but hard i really enjoyed working on the labs with my friends.",0,0
+648,it would be nice to have people over and be able to tell them how you designed and constructed such a beautiful house.,0,0
+649,"other than that, i am here because i want to get a good education in engineering and i believe that that is possible with diligent work.",1,1
+650,i am a computer engineering major that wants to get my degree and have to take this class to fulfill my requirements.,1,0
+651,these changes that have impacted my life has got me wanting to share it with the people back at home.,0,0
+652,im here to bring others ease.,0,0
+653,i hope to also network and meet new people because i am new to this school and area and the opportunities that come with networking could be endless.,0,0
+654,i have the opportunity to strive to become the best version of myself and to really understand what i could do to be successful.,1,1
+655,in mathematics we are just basically given the equation already and just plug in numbers.,0,0
+656,i also find these reflective journaling useless.,0,0
+657,"at the same time, i need to practice so that i can be prepared for the next class level physics ii as well as my future engineering classes.",0,0
+658,"i took the jc route; college tuition was too expensive, and it was just economically better for me to go to a junior college.",0,0
+659,my mother always made myself very interested in this major because she is a civil engineer as well.,1,0
+660,i will try my best and work very hard.,0,0
+661,the answer to why i am here depends on peoples mindset and their preference.,0,0
+662,all he does is go over many examples without actually explaining all that well.,0,0
+663,why am i here..,0,0
+664,this sci class will be the perfect opportunity for me to take advantage of that learning style.,0,0
+665,i know i am there because i am choosing to learn and pursue the career i want.,0,0
+666,i want to take advantage of this education and hopefully receive income to where i can support my family and doing it with something i love to do.,0,1
+667,i want to earn my bachelor's degree in science with a concentration in physiology.,1,1
+668,im here to really learn physics so that i dont have to catch up later.,0,0
+669,i am motivated to becoming a physical therapist and this class has been a huge barrier but nonetheless i will overcome it.,1,1
+670,"i'm currently on track to pursue a veterinarian career with a concentration in zoology within my biology major, however, i'm keeping my options open.",1,1
+671,somedays i feel like my reason for being here at school specifically is blurred from me....other days i feel like the reason for me being here is based on the expectations of other people especially my parents and family and people who look up to me and who believe in me and depend on me to make something out of myself.,0,0
+672,i guess i want my life to be exciting and fun.,0,0
+673,"this isnt an issue for me, but it does feel punishing to be here in a sense.",0,0
+674,"also, it must be really cool to be able to experience all these new construction materials or anything related to it in first hand.",0,0
+675,i also like to think about the working principle of the mechanics.,0,0
+676,"i am in this class because i want a better grade in my class, i also want to get extra help so i can understand what i need to do rather than memorizing for the exams.",0,0
+677,once i complete that i am a step closer into graduating.,0,0
+678,"in high school, my extracurricular activities revolved around science research and entering college, even my major was based on the fact that my future was set in becoming a doctor.",1,1
+679,i also want to travel to thirdworld countries and help those with little to no healthcare access.,0,0
+680,i am here at sfsu to gain the knowledge and experience i need to succeed in life and in my future job.,0,0
+681,"its a shallow answer, but if i had to elaborate then i would say that this class is a step towards becoming a doctor.",1,1
+682,if being an engineer is my goal then learning the skills an engineer needs is what i must do.,1,1
+683,im 'etiam hic ob maiorum consiliis meis: et ego ipse et usque ad superesse.,0,0
+684,"it also gives you an opportunity to ask any questions that you have, that you were unable to ask in class due to time.",0,0
+685,i will probably have to memorize a lot of formulas and make sure i dont slip up on my math.,0,0
+686,"physics is something that applies to all of us in day to day life, thus being in this class, it would be interesting to see which rules of physics are being applied in what we do.",0,0
+687,i love the fact that physics breaks down the every day forces that we take for granted every day.,0,0
+688,"as a kinesiology major, the main reason i am taking this class is that it is a prerequisite for physical therapy school.",1,0
+689,i felt discouraged when i couldn't pass my math class.,0,0
+690,but at this moment in my life i'm working part time and going to school not just to keep myself busy but also for my future.,0,0
+691,"the reason i am here, taking this physics lab and lecture is because i am a biology major, and it is one of the classes needed for me to take in order to move up to taking higher classes.",0,0
+692,"as a genentech scholar, i am required to take sci courses for all my science majors, so this course will help me retain my scholarship.",0,0
+693,"i am taking this sci class (aside from the fact that it is mandatory for me), because i really need that extra push to set aside time to focus on strengthening my knowledge in physics.",0,0
+694,i am excited to be here in si because i get to give my students and peers what my si facilitators have given to me: a safe place.,0,0
+695,this is one of them.,0,0
+696,this is the reason i chose to be a computer science major.,0,0
+697,i will prove to those as to why i am here and what i plan to do after i leave here.,0,0
+698,"i believe that going to college and taking various classes will allow you to figure out you strengths and weakness and with that, possibly figure out what you want to do in life.",0,0
+699,i hope to be an engineer one day that designs creative gadgets or tools that can be used in everyday life.,1,1
+700,it may be helpful as future reference when there might be a situation or problem i may encounter in my life since some of the analysis and theories are relatable to use.,0,0
+701,i don't really do well with being told to do something.,0,0
+702,i chose mechanical engineering because i wanted to do something with cars when i'm older whether it's working at a car company like tesla or being able to modify and drift cars.,1,1
+703,i am also interested in learning how to understand software to make games.,0,0
+704,i am here because i care about my education and supporting my family back home.,0,0
+705,"i want to learn about how physics works in our daily lives, and how it affects our lives.",1,1
+706,"to answer the question as to why i am here, it is for myself.",0,0
+707,including also the fact that we live in a place well known for innovations in the tech industry.,0,0
+708,i know i want to help sick children; my goal is to attend medical school and become a successful pediatrician.,1,1
+709,"i hope after taking this course this semester that i at least get something out of it, anything, even as small as knowing a moon phase.",0,0
+710,i also hope to review test topics before an exam to make sure i know all that i should know which would be on the test.,0,0
+711,"so when i think about the reason why im here, i know theres no reason but thats the exact same reason why i try to live purposefully.",0,0
+712,i have a drive to do better in a world that constantly belittles my community.,0,0
+713,"this entire journey of premed will one day, with enough work and dedication, will end in me becoming a pediatric surgeon.",1,1
+714,a lot of things have changed in the past couple of years but i do intend to be very interactive and participate during lab.,0,0
+715,so i think that this class will provide me with the extra help that i need for me to earn an a in chem 115.,0,1
+716,the reason i am here is to learn about astronomy and also receive the required unit of a lab class.,0,0
+717,"i have always been fond of math and physics since high school, and i continue to look forward to learning more in this class as well as my lecture.",0,0
+718,"my family has been the typical nail salon shiz, but im here to become a doctor.",1,1
+719,i am taking sci 227 because i found out about taking sci classes during my second semester of freshman year during a biology course.,0,0
+720,"by doing it that way, i may be able to better understand the lecture or lab course because they relate to each and discuss similar concepts.",0,0
+721,"ravi johnson physics 23202 january 28, 2020 why am i here?",0,0
+722,i am here because you can never have too much help.,0,0
+723,being here has many different meanings and perspectives.,0,0
+724,i want to gain and retain skills that will allow me to feel and act like i have an influence on the world.,1,1
+725,i am here because this class is a requirement for my major.,0,0
+726,"with taking this class, it also helps me to understand the formula or theory that i used in my physics class.",0,0
+727,i am in this class because it is required for my major of mechanical engineering.,0,0
+728,physics happens to be a branch of education of my cs degree so that's a majority of the reason i'm taking the class.,0,0
+729,i am here because i want to fulfill my goals.,1,1
+730,i have been in a sci class before for chemistry 1 and it helped me almost get an a in my class.,0,1
+731,"in the career i want to pursue, i have to take the mcat, which involves a section of physics, to get into medical school to soon become an anesthesiologist.",1,1
+732,im taking a sci classso i hope that class will give me a better foundation.,0,0
+733,if something i can make or contribute my efforts to can make that happen that would be satisfying to me.,0,0
+734,i am here taking this class because it is a requirement towards my major.,0,0
+735,i am here to fully grasp the concept of physics with a little extra help that may not be able to get from office hours.,1,1
+736,i hope that after taking this class i will see how i can apply physics to my daily life or how it is important in my life.,0,0
+737,"also, its at night so instead of wasting that time in doing nothing i now have something to do.",0,0
+738,"now that ive learned a bit about the engineering field, im excited to apply what ive learned to design a new kind of car engine, which is what i want to do with my degree when i graduate.",1,1
+739,i am here to learn as much as i can so my future self can be the best at whatever it is i end up doing.,1,1
+740,"then ill get my degree in business accounting, find a job, get a home, and start a life with my own family.",1,0
+741,the reason i am at college is to better my life and to build my career.,0,0
+742,i am here because i am a prekinesiology major and it is a prerequisite for my major.,0,0
+743,"i also want to be able to gain the experience as a college student and by doing so, i would need to expand my horizons by connecting with others from different backgrounds and ages.",0,0
+744,i am here to make friendships and connections.,1,1
+745,"she got her degree from university of california, berkeley.",0,1
+746,but yeah i'm here because i currently don't wanna work construction.,0,0
+747,"since then, ive enjoyed learning the different facets of engineering and the technical pieces that follow.",0,1
+748,"i also haven't learned any physics since 8th grade and didn't have a great teacher then, and since science is my favorite subject to study and math coming in second, i look forward to learning more about the branch of science that i know the least about.",0,0
+749,"i still couldnt help but take a music related class every semester, whether it be an electronic music class, chord theory, or live performance bands.",0,0
+750,i'm in sci 115 because i took chemistry last semester and ended up getting a d. i feel like there were many things that went wrong last semester like juggling extracurriculars was difficult in itself but personally i had a problem with the seminar component of the class specifically.,0,0
+751,i am taking this sci course because i have a goal of someday becoming a doctor of veterinary medicine.,1,1
+752,i decided to study abroad when i was 14 years old.,0,0
+753,what make the car run?,0,0
+754,"i have never taken a physics class before, but i love science in general and am excited to learn how things work in the world and, more importantly, being able to do some practical use in this lab course.",0,0
+755,i just know this is what i want to do with my life.,1,1
+756,physics is an interesting concept that i often overlook due to the equations and complex idea behind it.,0,0
+757,"looking back at my initial purpose, now i think i'm here because i want to study, and that i actually like to learn more about physics and its application in every day life.",1,1
+758,"i'm pretty confident in my skills in chemistry currently, but i hope that by the end of the semester i will gain more confidence and not be afraid to ask questions and make errors.",0,0
+759,i wouldnt be here without my parents who sacrificed a lot for me to be here.,0,0
+760,i just need a physics book for dummies.,0,0
+761,my friends and i decided to join science 115 to learn for deep about the lectures we learned in chemistry 115 class.,0,0
+762,"my dad attended this school, all my uncles attended this school, and many of my siblings older than me have attended.",0,0
+763,"to go indepth, excelling in my studies will lead to getting into a great physical therapy program.",1,0
+764,"math always seems to give me a little bit of trouble, but i get a hang of it after pushing myself to do the best i can.",0,0
+765,all of unit one and unit two are where i am struggling.,0,0
+766,i hope this semester will be exciting as previous semesters here at sfsu. thank you,0,0
+767,i want to break stereotypes in the workforce to help other people feel more comfortable in the field they want to go in rather than feeling they do not belong.,1,1
+768,"while i am not the best when it come to the realm of physics, i know this class will help me gain better insight on scientific applications and improve my skill set in mathematical computation and analysis.",0,0
+769,i am also here to have fun in this beautiful city and make memories that i can tell my kids in the future.,0,0
+770,i am here because i want to prove to myself that i am more than capable of living the life i've always dreamed of for me and my family.,0,1
+771,when i was young i always wanted to grow up and become an engineer.,1,1
+772,it also helps to further understanding about how the world works around us and connects with both chemistry and biology.,0,0
+773,"name 3 and name 4 are also pretty cool, they're very open and will help in any way they can.",0,0
+774,these are the main reason i am here.,0,0
+775,but it was the course i most remember as being frustrating and hard to understand.,0,0
+776,"throughout this question, i also got to think that i want to spend productively and meaningfully in every single day.",1,1
+777,physics isnt an easy subject to learn.,0,0
+778,"i think there a lot of things that could be reasons of why i am here. one, i think i have gone through hardships and experiences that most people never will.",0,0
+779,i am here to learn the material taught in this class.,1,1
+780,"when i was a child, i wasnt really good at math but throughout time, i am in love with it, i love the moment when i solve the problem and find out the answer of the problem.",0,0
+781,i want to have a better understanding of the topics and what they mean on a deeper level.,1,1
+782,college is a place where you can further your knowledge and learn new skills.,0,0
+783,"because this is a physics class, and it is related to some common sense in my life, and it has some connection with mathematics.",0,0
+784,i initially was planning on going into athletic training but two semesters ago i decided to go full throttle.,0,0
+785,i have a heavy course load this semester so taking this course will help me in a way lessen the amount of studying i need to do.,0,0
+786,"right now i want to learn and understand our planet, galaxy and many others along the way as i take these classes to better help me pursue my dream in understanding our environment and working in the big leagues one day",1,1
+787,"to give you a better example, when in conversation with people and i feel as if i dont know what to say, i know i always have biology to talk about and take me back to my safe zone.",0,0
+788,"however, it on the other hand can help me understand the concepts and relate them to my everyday life.",0,0
+789,i also am here to be smart and finish my degree.,0,0
+790,im still iffy on what i want to be when i grow up. ive always been interested in helping people but just not sure how to do it.,1,1
+791,hello!im here because i have to fulfill this prerequisite for my computer science degree.,0,0
+792,"growing up i knew no one that went to college, and therefore didn't have anyone to ask questions to.",1,1
+793,"science and medicine fascinate me, it opens my mind to reality that everything in is interconnected in different ways possible.",0,0
+794,i think this class is required because it enables you to think critically about how things work.,0,0
+795,"i put a ton of work into the semester and achieved all a's, but during this period i had less of a social life.",0,0
+796,it is to look at a flower and understand where the colors come from etc this quote might not be exact but its pretty similar to what i remember.,0,0
+797,"if you ask why am i at san francisco state university, i would tell you that i am chasing a degree.",0,0
+798,any knowledge that subtly relates to my passion interests me so i am glad that i am here.,0,0
+799,"sci class is like a formal study group where we do review activities, such as kahoot or mock exams, and i enjoy everything about it.",0,0
+800,i am also here in college because i wanted to prove to them that i can be successful and complete college.,0,0
+801,i feel like it helps me review and get a better grasp on what i need to know in order to pass the class.,0,0
+802,"damarcus johnsonreflection when i think of why im here, my mind goes immediately to my family.",0,0
+803,"i am not just here to fulfill my courses though, i am here to better myself in many different aspects.",1,1
+804,"learning physics applied in everyday life even if you don't know it because for example, say you drop a ball that is physics being applied in the real world.",0,0
+805,he was very obnoxious and acted like he was still in a fraternity although he was 10 years my senior.,0,0
+806,"however, i don't really have a choice so i will just have to manage like everyone else.",0,0
+807,"i think it is absolutely incredible that all of us are living here on earth, with developed prefrontal cortices and complex lives, while the rest of the universe is infinite and even more complex than we even know.",0,0
+808,"whenever i get asked why i am here, it is usually a pretty interesting question to answer.",0,0
+809,however i picked astronomy over the other labs because its actually a class that im interested in.,0,0
+810,i lose myself quite often....,0,0
+811,"i want to learn not memorize, and understand and not _.",1,1
+812,why are there so many equations for us to memorize..,0,0
+813,i really do hope these whole covid things is over so i can do internship and decided what i want to for my life,1,1
+814,"i never really knew what i wanted to be when i was growing up, but then during high school i realized that i like doing math.",0,1
+815,"overall, im here to focus on my future and have a positive influence on society.",0,0
+816,i took an astronomy class in high school and thats when i started to realize that this sort of science interested me the most.,0,0
+817,"i also want a job that i love, and this is a first step in that particular direction.",0,0
+818,i also hope that the supplemental class will enforce what we learn in class and help me better apply formulas to the word problems we have for homework.,0,0
+819,"also, i know that i hate writing papers so i also choose a major that has the least amount of writing in it.",0,0
+820,physics courses are essential in terms of physical therapy and human anatomy because topics such as vectors and forces can be a good analogy when it comes to the human body and its bones.,0,0
+821,"i enrolled in astronomy lab this fall semester because i'm interested in this topic of learning about space like our solar system, moon, stars and more and have a better understanding of the discoveries found in outer space since i don't know so much about it but i'm really excited about learning more about our universe.",0,0
+822,i am also here because i made a choice to study computer engineering and not nursing because of how impacting it was and my interest in computer since i was young.,0,0
+823,"i feel like i am on this earth to let stories be heard, whether it be my stories or other folks stories.",0,0
+824,i believe the small classes that dont seem to mean anything is a lot of knowledge to work with.,0,0
+825,at first i genuinely felt like i am going nowhere because i was not able to go to the school a really wanted to.,0,0
+826,"most importantly, as part of an underrepresented community i want my patients to feel comfortable by having a provider that gives care that is culturally and linguistically sensitive.",0,0
+827,taking this physics class is the building block for my success because i need this class to graduate.,0,0
+828,"fast forward 6 years later, having obtained many certificates and my commercial pilots license, i decided to finish my mechanical engineering degree.",1,1
+829,sometimes i know why i am where i am in an exact moment and sometimes i figure that out later down the road.,0,0
+830,"however, life is not easy to live with, and i promise to myself that i will become successful in life and to be able to pay my gratitude to my parents who supported me since i started school or since when i was born.",0,1
+831,"i find this challenging as i am also working (sometimes 23 jobs), but i enjoy the challenge and i know it will get me where i want to be.",0,1
+832,i want to go to physical therapy school.,0,1
+833,i found that i was really good at calculus and i was struggling to understand physics.,0,0
+834,all of my classes are super stressful and i have the busiest schedule of my life.,0,0
+835,i am here because this is one step closer to my dream.,0,0
+836,"this aspect of engineering has been in my early age without me even knowing it, and i naturally drifted to that desired discipline unconsciously.",1,0
+837,to be honest the only reason i am here is because it is required for my major.,0,0
+838,i made my purpose to help not only others but nature as well.,0,0
+839,i am in this lab section to complete the lab requirement of phys 230 to proceed with the rest of my academic learning.,0,0
+840,i currently work at a physical therapy clinic at presidio sport and medicine and majority of the exercises that i prescribe my patients coincide with physics topicsanalogy.,0,0
+841,i cant see myself as anything and im just stuck or im actually just not sure where im going or if im going down the right path.,0,0
+842,class with a b or higher but we will see about that.,0,1
