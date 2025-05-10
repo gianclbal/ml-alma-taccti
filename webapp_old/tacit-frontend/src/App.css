@@ -1,0 +1,117 @@
+body {
+  background-color: #fff !important;
+}
+.navbar-span {
+  font-family: 'Lora', serif !important;
+  font-size: xx-large !important;
+  color: #1D2561 !important;
+}
+nav {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+.navbar {
+  height: 60px !important;
+}
+.navbar-image{
+  padding-top: 7px !important;
+}
+.username{
+  font-size: 16px !important;
+  padding-right: 0.2rem !important;
+  font-weight: 300;
+}
+.homepage-banner {
+  vertical-align: auto !important;
+  margin-top: 5% !important;
+}
+.homepage-left-container-item {
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 2;
+  font-family: 'Lora', serif !important;
+}
+.homepage-left-container-item2 {
+  font-size: 15px;
+  line-height: 2;
+  font-family: 'Lora', serif !important;
+  font-weight: 300;
+}
+.homepage-left-container-item3 {
+  font-size: 13px;
+}
+.extra-bold-element {
+  font-weight: 800 !important;
+}
+.navbar-username {
+	font-size: 1.2rem !important;
+  font-weight: 300 !important;
+  margin-right: 10px;
+}
+.navbar-image {
+  margin-right: 10px !important;
+  border-radius: 50% !important;
+}
+.cust-font-weight {
+  font-weight: 400 !important;
+}
+.uploader-form{
+  margin-top: 8% !important;
+}
+.analysis-card-text{
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+.ct-label {
+  font-size: 13px !important;
+  font-weight: 800 !important;
+}
+.red-color-text {
+  color: red !important;
+  font-weight: 400 !important;
+}
+.react-select .react-select__control, .react-select__control--is-focused, .react-select__control--is-focused:hover {
+  border-color: #777 !important;
+}
+.react-select.info .react-select__control .react-select__value-container--has-value .react-select__single-value, .react-select.info .react-select__control .react-select__value-container--has-value .react-select__multi-value__label {
+  color: #777 !important;
+}
+mark {
+  background-color: yellow !important;
+}
+.upload-button{
+  margin-top:1rem !important;
+}
+.csv-label {
+  font-size: medium;
+}
+.progress-bar-text {
+  font-family: 'Lora', serif !important;
+  font-size: xx-large !important;
+  color: #1D2561 !important;
+}
+table {
+  font-size: 15px !important;
+}
+.download-results{
+  float: right !important;
+  color: #fff !important;
+}
+.download-results a {
+  color: #fff !important
+}
+
+@media (max-width: 1024px) { 
+  .homepage-left-container-item {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 2;
+    font-family: 'Lora', serif !important;
+  }
+  .homepage-left-container-item2 {
+    font-size: 10px;
+    line-height: 2;
+    font-weight: 300;
+    display: none !important;
+  }
+  
+}
