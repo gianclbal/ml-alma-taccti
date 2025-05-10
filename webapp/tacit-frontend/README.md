@@ -1,57 +1,70 @@
-# TACIT Front End
+# Getting Started with Create React App
 
-### Information
-* This repository contains the front-end code for the TACIT app and has been bootstrapped using create-react-app.
-* Please ensure that the node.js and npm are installed on your machine. If not then download it from [here](https://nodejs.org/en/download/)
-* Copy the contents of the directory <strong style="color:red;">tacit-frontend</strong> to your machine.
-* To install the dependencies and start the front end service on your machine run.
-```bash
-# change directory to tacit-frontend
-cd tacit-frontend
-# install the dependencies
-npm install
-# start the project
-npm start
-```
-* The service will be available on http://localhost:3000/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### TACIT Home Page
-![Welcome Screen](./../snapshots/welcome_screen.png)
+## Available Scripts
 
-### Authentication
-* Authentication is handled using [Auth0](https://auth0.com/) which is an authentication service and can handle 7000 active users in the free plan.
-* Sign up for a free plan and need to create an application.
+In the project directory, you can run:
 
-![Create Application](./../snapshots/auth0_create_app.png)
-* In the index.js need to update the <strong style="color:red;">domain</strong> and <strong style="color:red;">clientId</strong> values. Do not hard code them, use <strong style="color:red;">environment variables</strong> instead. 
+### `npm start`
 
-![App Secret](./../snapshots/app_secret.png)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### API Call
-* For the front-end to work, it needs an API endpoint which processes the uploaded essays. The endpoint should also be added as an <strong style="color:red;">environment variable</strong> and not hardcoded in the <strong style="color:red;">Tacit.js</strong> file.
-```bash
-// Need to specify the endpoint here.
-// http://ec2-13-57-214-128.us-west-1.compute.amazonaws.com:5000
-// Localhost url
-// http://localhost:5000/culturalcapitals
-fetch(process.env.API_ENDPOINT/culturalcapitals, {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-  },
-  body: JSON.stringify(data)
-}).then((response) => {
-   response.json().then((body) => {
-```
-### Dashboard
-* Post Authentication
-![Post Auth](./../snapshots/post_auth.png)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-* Post Data Upload
-![Post Upload](./../snapshots/post_upload_1.png)
-![Post Upload](./../snapshots/post_upload_2.png)
+### `npm test`
 
-### Code
-* Tacit.js: Contains the code for the dashboard.
-* LoginScreen.js: Contains the code for homepage.
-* <i style="color:orange;">Code Improvements:</i> Improve aesthetics, functionality, additional testing
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

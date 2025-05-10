@@ -1,0 +1,172 @@
+/* General container styles */
+.upload-file-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .upload-file-container:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* Header */
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  /* Form styling */
+  .upload-file-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* File input styling */
+  .file-input {
+    font-size: 16px;
+    padding: 12px 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
+    transition: border-color 0.3s ease;
+  }
+  
+  .file-input:hover {
+    border-color: #4CAF50;
+  }
+  
+  .file-input:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
+  .file-input i {
+    font-size: 20px;
+    color: #4CAF50;
+  }
+  
+  /* Select dropdown styling */
+  .input-field {
+    font-size: 16px;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: white;
+    transition: border-color 0.3s ease;
+  }
+  
+  .input-field:hover {
+    border-color: #4CAF50;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #4CAF50;
+  }
+  
+  /* Buttons */
+  .upload-button,
+  .clear-button,
+  .logout-button {
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .upload-button {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .upload-button:hover {
+    background-color: #45a049;
+  }
+  
+  .upload-button:active {
+    transform: scale(0.98);
+  }
+  
+  /* Clear button styling */
+.clear-button {
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    background-color: #f44336;
+    color: white;
+    margin-top: 10px;  /* Add some space between the upload and clear buttons */
+  }
+  
+  .clear-button:hover {
+    background-color: #e53935;
+  }
+  
+  .clear-button:active {
+    transform: scale(0.98);
+  }
+  
+  .logout-button {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .logout-button:hover {
+    background-color: #1976D2;
+  }
+  
+  .logout-button:active {
+    transform: scale(0.98);
+  }
+  
+  /* Error message styling */
+  .error-message {
+    color: #f44336;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  /* Download link styling */
+  .download-link-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .download-link {
+    font-size: 16px;
+    color: #2196F3;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px solid #2196F3;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .download-link:hover {
+    background-color: #2196F3;
+    color: white;
+  }
+  
+  .download-link:active {
+    transform: scale(0.98);
+  }

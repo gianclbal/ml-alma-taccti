@@ -1,0 +1,39 @@
+/* ResultsTable.css */
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+    margin: 20px 0;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    table-layout: fixed;
+  }
+  
+  .table th, .table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
+  .table td {
+    word-wrap: break-word;
+  }
+  
+  .table .highlight {
+    background-color: yellow;
+  }
+  
+  /* Styling for theme name at the top */
+  .theme-name {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 24px;
+  }
