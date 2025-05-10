@@ -1,32 +1,23 @@
-name: ml_env
+name: ml-alma-taccti
 channels:
-  - bioconda
-  - r
   - defaults
   - conda-forge
 dependencies:
-  - python=3.8
-  - tensorflow-deps
-  - torchvision
-  - torchaudio
-  - pytorch
-  - tokenizers=0.11.1
-  - transformers
-  - ipykernel
-  - lxml
-  - cchardet
-  - keras
-  - conda=23.9.0
-  - pandoc
-  - gensim
-  - spacy
-  - spacy-model-en_core_web_sm
-  - pytables
-  - xgboost
-  - wordcloud
-  - textblob
+  - python=3.10
+  - pip
+  - pandas
+  - fastapi
+  - uvicorn
   - openpyxl
-  - xlwt
-variables:
-  CONDA_SUBDIR: osx-arm64
-prefix: /Users/gbaldonado/miniforge3/envs/ml_env
+  - pydantic
+  - scikit-learn
+  - transformers
+  - torch
+  - xlrd
+  - xlsxwriter
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - pip:
+      - anyio
+      - ace_tools

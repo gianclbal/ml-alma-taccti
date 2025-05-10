@@ -1,5 +1,12 @@
-webapp/tacit-frontend/node_modules
-webapp/tacit-backend/attainment_model
-webapp/tacit-backend/distillbert_model
-saved_models
-notebooks/experiments/model
+# Ignore node_modules (frontend dependencies)
+webapp/tacit-frontend/node_modules/
+
+# Ignore model directories (large machine learning models)
+webapp_old/tacit-backend/attainment_model/
+webapp_old/tacit-backend/distillbert_model/
+webapp_old/tacit-frontend/node_modules/
+webapp/models/
+
+# Ignore saved models or experiments
+saved_models/
+notebooks/experiments/model/

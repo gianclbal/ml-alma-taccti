@@ -1,0 +1,412 @@
+Original Sentence,Duplicate Sentence,Similarity Score
+this is why i'm here.,this is why i am here.,90
+this is why i'm here.,this is why i am here.,90
+this is why i'm here.,this is why i am here.,90
+this is why i'm here.,that is why im here.,89
+that's why i'm here.,that is why im here.,89
+that's why i'm here.,thats why i am here.,89
+that's why i'm here.,thats why i am here.,89
+that's why i'm here.,well thats why im here,87
+i also know that the time allotted for the professors are not enough to begin with.,you so know that the time allotted for the professors are not enough to begin with.,91
+im here because i want to be.,i am here because i want to be.,93
+im here because i want to be.,i am here because i want to be here.,86
+you so know that the time allotted for the professors are not enough to begin with.,i also know that the time allotted for the professors are not enough to begin with.,91
+i am here to learn more about physics.,"so, i am here to learn more about physics.",96
+i am here to learn more about physics.,i am here to learn about physics.,93
+i am here to learn more about physics.,i am also here to learn about physics.,86
+i am here to get a degree.,i am here to get my degree.,90
+i find the field to be very interesting to me and i can see myself enjoying it for the rest of my life.,i find the field to be very interesting and i can see myself enjoying it for the rest of my life.,97
+"math always gives me a little trouble, but i get a hang of it after pushing myself to do the best i can.","math always seems to give me a little bit of trouble, but i get a hang of it after pushing myself to do the best i can.",92
+looking forwards to a great and productive semester.,looking forward to a great and productive semester!,99
+this is why i am here.,this is why i'm here.,90
+this is why i am here.,this is why i'm here.,90
+this is why i am here.,that is why i am here.,90
+this is why i am here.,that is why i am here.,90
+this is why i am here.,thats why i am here.,85
+this is why i am here.,thats why i am here.,85
+"also, i am an african american male, and there is not a great representation in the stem fields, and i want to help change that perception.","in addition, i am an african american male and there is not a large representation in the stem fields and i want to help change that perception.",90
+i am taking both a physics111 sci course and chemistry115 sci course.,i am taking both a physics121 sci course and chemistry215 sci course.,97
+why am i attending san francisco state university?,why am i at san francisco state university?,92
+i am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,why am i herei am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,94
+"i also want to get a better educations, get a better job, prferably one with advancement opportunities.","i also want to get a better educations, get a better job, preferably one with advancement opportunities.",100
+i am here because this is a prerequisite class for my major in computer engineering.,"in addition, this class is also a prerequisite for my major in computer engineering.",87
+i am here at sfsu because i want to make a difference in the world.,i am here because i want to make a positive difference in this world.,88
+i would like to be a cardiothoracic surgeon.,i want to be a cardiothoracic surgeon.,85
+i am in physics because it is required by my major.,i am here in physics because it is a requirement for my major.,85
+i am here because i want to further my education and expand my knowledge.,i am here to further my education and expand my boarders of knowledge.,87
+i am here in this physics class because it is a prerequisite for my major.,i am here in this physics class because it is a requirement for my major.,92
+i am here in this physics class because it is a prerequisite for my major.,i am here because this class is a prerequisite for my major.,89
+i am here in this physics class because it is a prerequisite for my major.,i am here in this class because it is a prerequisite for my major which is biology (physiology).,86
+i am here in this physics class because it is a prerequisite for my major.,i am here because this class is a prerequisite for my kinesiology major.,85
+i am here in this physics lab because it's a requirement for my major.,i am here in physics because it is a requirement for my major.,91
+i am here in this physics lab because it's a requirement for my major.,i am here in this physics class because it is a requirement for my major.,91
+i am here because i want to be.,im here because i want to be.,93
+i am here because i want to be.,im here because i want to be.,93
+i am here because i want to be.,im here because i want to be.,93
+i am here because i want to be.,i am here because i want to be here.,92
+i am here because i want to be.,i am here because i want to be successful.,85
+i am here for a list of reasons.,i am here for a lot of reasons.,95
+i am here for a list of reasons.,i am here for a lot of reasons.,95
+i am here for a list of reasons.,i am here for a multitude of reasons.,90
+"even though i never had the chance to take physics classes before, im here to dip my toes in other stem fields.","even though i never had the chance to take many chemistry classes before, im here to dip my toes in other stem fields.",90
+i suppose im taking this physics course so that i can expand my general physics knowledge to see if i can apply physics concepts in my future research work.,i suppose im taking this sci course so that i can expand my general biology knowledge to see if i can apply biology concepts in my future research work.,86
+"this is helpful since it will reinforce my confidence in physics concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in biology concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",96
+"this is helpful since it will reinforce my confidence in physics concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in chemistry concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",95
+"despite being a biology major, i genuinely believe that understanding basic physics concepts will be applicable in my future research work.","despite being a biology major, i genuinely believe that understanding chemistry concepts will be applicable in my future research work.",91
+"despite being a biology major, i genuinely believe that understanding basic physics concepts will be applicable in my future research work.",i genuinely believe that understanding basic biology concepts will be applicable in my future research work.,88
+i am here for multiple reasons.,i am here for a multitude of reasons.,85
+"""why am i here?"" this essay is meant to connect you to your purpose.",this essay is meant to connect you to your purpose.,88
+it should be streamofconciousness writing from the heart.,it should be streamofconsciousness writing from the heart.,99
+it should be streamofconciousness writing from the heart.,it should be streamofconsciousness writing from the heart.,99
+i find the field to be very interesting and i can see myself enjoying it for the rest of my life.,i find the field to be very interesting to me and i can see myself enjoying it for the rest of my life.,97
+"math always seems to give me a little bit of trouble, but i get a hang of it after pushing myself to do the best i can.","math always gives me a little trouble, but i get a hang of it after pushing myself to do the best i can.",92
+looking forward to a great and productive semester!,looking forwards to a great and productive semester.,99
+i am here because i am required to take this class for my major.,i am here because this class is required for my major.,90
+i am here because i am required to take this class for my major.,i am here because this class is a requirement for my major.,89
+i am here because i am required to take this class for my major.,i am here plainly because i need to take this class for my major.,87
+i am here because i am required to take this class for my major.,i am here because this class is a prerequisite for my major.,87
+i am here because i am required to take this class for my major.,im here because this class is a requirement for my major.,86
+i am here because i am required to take this class for my major.,i am here because it is a class that is required for my major.,85
+so why am i here?,why am i here?,90
+so why am i here?,why am i here?,90
+so why am i here?,why am i here?,90
+so why am i here?,why am i here?,90
+so why am i here?,why am i here?,90
+the reason why i am here now is because of my mother.,the reason i am here is because of my major.,86
+the reason why i am here now is because of my mother.,the reason i am here is because of my major.,86
+i am here to get my degree.,i am here to get a degree.,90
+i am here for a lot of reasons.,i am here for a list of reasons.,95
+i am here for a lot of reasons.,i am here for a multitude of reasons.,88
+"but im here in this class because it is required for my major, which is mechanical engineering.",i am in this class because it is required for my major of mechanical engineering.,86
+i'm here because this class is necessary for my major.,i'm here because this is a class that i need for my major.,87
+i am here because this class is required for my degree.,i am here in this class because it is a required for my degree.,93
+i am here because this class is required for my degree.,i am here because this class is required for my major.,88
+the reason i am here is because of my major.,the reason i am here is because of my brother marky.,87
+the reason i am here is because of my major.,the reason why i am here now is because of my mother.,86
+i am in this class because it is required for my major of mechanical engineering.,"but im here in this class because it is required for my major, which is mechanical engineering.",86
+i am here to further my education and expand my boarders of knowledge.,i am here because i want to further my education and expand my knowledge.,87
+i am here studying computer science.,i am here to study computer science.,91
+that's a good question.,thats a very good question.,89
+i am here because i chose to be here.,i'm here because i chose to be here.,94
+i am here because i chose to be here.,i am here because i want to be here.,85
+i am here because i chose to be here.,i am here because i am expected to be here.,85
+i am here because i chose to be here.,i am here because i have to be.,85
+i am here to learn.,today i am here to learn.,86
+"in addition, this class is also a prerequisite for my major in computer engineering.",i am here because this is a prerequisite class for my major in computer engineering.,87
+the question why am i here? is a very broad question.,"""why am i here"" is a very broad question.",85
+the question why am i here? is a very broad question.,the question why am i here is so broad.,85
+that is why im here.,that is why i am here.,90
+that is why im here.,that is why i am here.,90
+that is why im here.,this is why i'm here.,89
+that is why im here.,that's why i'm here.,89
+that is why im here.,this is why i'm here.,89
+that is why im here.,that's why i'm here.,89
+i am here because it is a class that is required for my major.,i am here because this class is required for my major.,89
+i am here because it is a class that is required for my major.,so i am here in this class because it is a requirement for my major.,89
+i am here because it is a class that is required for my major.,i am in this class because it is a requirement for my major.,87
+i am here because it is a class that is required for my major.,i am here because this class is a requirement for my major.,87
+i am here because it is a class that is required for my major.,i am here in this physics class because it is a requirement for my major.,86
+i am here because it is a class that is required for my major.,i am here because i am required to take this class for my major.,85
+i am here because it is a class that is required for my major.,i am here in this class because it is a required for my degree.,85
+i am here because it is a class that is required for my major.,i am here because this class is a prerequisite for my major.,85
+i am very interested in the stem field.,i am very interested in this field.,89
+that is why i am here.,this is why i am here.,90
+that is why i am here.,this is why i am here.,90
+that is why i am here.,that is why im here.,90
+that is why i am here.,thats why i am here.,90
+that is why i am here.,thats why i am here.,90
+that is why i am here.,this is why i am here.,90
+that is why i am here.,that is why i am here today.,88
+why am i here in this class?,or why am i in this class?,85
+"""why am i here"" is a very broad question.",the question why am i here is so broad.,87
+"""why am i here"" is a very broad question.",the question why am i here? is a very broad question.,85
+i am here because it is a prerequisite for my major courses.,i am here because this class is a prerequisite for my major.,88
+i am here to create.,i am here to graduate.,85
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+why am i here ?,why am i here?,100
+thats a very good question.,that's a good question.,89
+"i am here, because i need this class for a ge requirement.",i am here because this class is a requirement for my major.,86
+"i am here, because i need this class for a ge requirement.",i am here because i need to fulfill a ge requirement.,85
+i am here because i want to fulfill all of my ge requirements.,i am here because i need to fulfill a ge requirement.,85
+today i am here to learn.,i am here to learn.,86
+today i am here to learn.,i am here to learn.,86
+today i am here to learn.,i am here to learn.,86
+that is why i am here today.,that is why i am here.,88
+that is why i am here today.,that is why i am here.,88
+i am here to figure out what i want to do with my life.,i believe i am here in order to figure out what i want to do with my life.,85
+i am here because i want to do better in my ochem class.,i am here because i want to be able to do better in my math class.,85
+thats why i am here.,that is why i am here.,90
+thats why i am here.,that is why i am here.,90
+thats why i am here.,that's why i'm here.,89
+thats why i am here.,that's why i'm here.,89
+thats why i am here.,so why am i here?,86
+thats why i am here.,so why am i here?,86
+thats why i am here.,so why am i here?,86
+thats why i am here.,so why am i here?,86
+i am here because i want to make a positive difference in this world.,i am here at sfsu because i want to make a difference in the world.,88
+i am here at sfsu for a multitude of reasons.,i am here for a multitude of reasons.,90
+i am here because this class is a requirement for my major (civil engineering).,i am here because this class is a requirement for my major.,87
+i am here because this class is a requirement for my major (civil engineering).,i am here because this class is a requirement for my biology major.,86
+i am here for a multitude of reasons.,i am here at sfsu for a multitude of reasons.,90
+i am here for a multitude of reasons.,i am here for a lot of reasons.,88
+i am here for a multitude of reasons.,i am here for a lot of reasons.,88
+i am here for a multitude of reasons.,i am here for a list of reasons.,87
+i am here for a multitude of reasons.,i am here for multiple reasons.,85
+the question why am i here is so broad.,"""why am i here"" is a very broad question.",87
+the question why am i here is so broad.,the question why am i here? is a very broad question.,85
+i am here taking this class because it is a requirement towards my major.,i am taking this course because it is a requirement for my major .,85
+i think i am here because i was born.,i am here because i was born in this world.,87
+i attended college of marin before transferring to sfsu this spring.,i attended college of marin before transferring this spring.,94
+i attended college of marin before transferring this spring.,i attended college of marin before transferring to sfsu this spring.,94
+i am currently enrolled in sci 240 section because of my current and future career aspirations.,i am currently enrolled in this sci 115 section because of my current and future career aspirations.,94
+i am currently enrolled in this sci 115 section because of my current and future career aspirations.,i am currently enrolled in sci 240 section because of my current and future career aspirations.,94
+i am here because i want to be successful.,i am here because i want to be.,85
+i am here because i want to be successful.,i believe that i am here because i want to be successful.,85
+"in addition, i am an african american male and there is not a large representation in the stem fields and i want to help change that perception.","also, i am an african american male, and there is not a great representation in the stem fields, and i want to help change that perception.",90
+i am here because i am a biology major and this class is one of the prerequisites for my major.,i am here because i am a biology major and this is one of the prerequisites for my major.,97
+i am here because i am a biology major and this class is one of the prerequisites for my major.,i am here because i am a biology major and this is one of the prerequisites for my major.,97
+"i have taken a physics class previously in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.","i previously took a physics class in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.",96
+i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems.,i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems and how they might relate to everyday life.,86
+i am here because i am a biology major and this is one of the prerequisites for my major.,i am here because i am a biology major and this class is one of the prerequisites for my major.,97
+i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems and how they might relate to everyday life.,i am also here because i want to broaden my understanding of why certain things function the way they do when working out these problems and how they might relate to everyday life.,95
+i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems and how they might relate to everyday life.,i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems.,86
+"i previously took a physics class in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.","i have taken a physics class previously in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.",96
+"i previously took a physics class in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.","i have taken a physics class previously in high school, but looking back i didnt really learn much and did not understand the full concept of what physics actually was and the point of it.",96
+i am also here because i want to broaden my understanding of why certain things function the way they do when working out these problems and how they might relate to everyday life.,i am here because i want to broaden my understanding of why certain things work the way they do when working out these problems and how they might relate to everyday life.,95
+"though, i am really bad with physics, math and chemistry.",i am really bad at chemistry and physics though.,87
+i am here because i am required to be here.,i am here because i am supposed to be here.,88
+i am here because i need to fulfill a ge requirement.,i am here because i want to fulfill all of my ge requirements.,85
+here i am.,so here i am (:,86
+i am here because i want to be able to do better in my math class.,i am here because i want to do better in my ochem class.,85
+in general i am here because i want to be here.,i am here because i want to be here.,86
+i am in this class because it is a requirement for my major.,so i am here in this class because it is a requirement for my major.,94
+i am in this class because it is a requirement for my major.,i am here because this class is a requirement for my major.,91
+i am in this class because it is a requirement for my major.,i am here in this physics class because it is a requirement for my major.,90
+i am in this class because it is a requirement for my major.,im here because this class is a requirement for my major.,89
+i am in this class because it is a requirement for my major.,i am here because it is a class that is required for my major.,87
+i am in this class because it is a requirement for my major.,i am taking this course because it is a requirement for my major .,86
+i am in this class because it is a requirement for my major.,i am here because this class is a requirement for my biology major.,85
+i am in this class because it is a requirement for my major.,i am here in this class because it fulfills my major requirements.,85
+i am here because this class fulfills a major requirement.,i am here in this class because it fulfills my major requirements.,90
+i am here because this class fulfills a major requirement.,i am here because this class is a requirement for my major.,87
+i am here because this class is a prerequisite for my kinesiology major.,i am here because this class is a prerequisite for my major.,91
+i am here because this class is a prerequisite for my kinesiology major.,i am here in this physics class because it is a prerequisite for my major.,85
+im here because i have to be.,i am here because i have to be.,93
+i am here because this class is a requirement for my biology major.,i am here because this class is a requirement for my major.,94
+i am here because this class is a requirement for my biology major.,im here because this class is a requirement for my major.,90
+i am here because this class is a requirement for my biology major.,i am here because this class is required for my major.,87
+i am here because this class is a requirement for my biology major.,so i am here in this class because it is a requirement for my major.,87
+i am here because this class is a requirement for my biology major.,i am here because this class is a requirement for my major (civil engineering).,86
+i am here because this class is a requirement for my biology major.,i am in this class because it is a requirement for my major.,85
+i am here because this class is a requirement for my biology major.,i am here because this class is a prerequisite for my major.,85
+i am here because this class is a requirement for my major.,im here because this class is a requirement for my major.,96
+i am here because this class is a requirement for my major.,i am here because this class is a requirement for my biology major.,94
+i am here because this class is a requirement for my major.,i am here because this class is required for my major.,94
+i am here because this class is a requirement for my major.,so i am here in this class because it is a requirement for my major.,93
+i am here because this class is a requirement for my major.,i am in this class because it is a requirement for my major.,91
+i am here because this class is a requirement for my major.,i am here because this class is a prerequisite for my major.,91
+i am here because this class is a requirement for my major.,i am here because i am required to take this class for my major.,89
+i am here because this class is a requirement for my major.,i am here in this physics class because it is a requirement for my major.,89
+i am here because this class is a requirement for my major.,i am here because it is a class that is required for my major.,87
+i am here because this class is required for my major.,i am here because this class is a requirement for my major.,94
+i am here because this class is required for my major.,im here because this class is a requirement for my major.,94
+i am here because this class is required for my major.,i am here because this class is a prerequisite for my major.,91
+i am here because this class is required for my major.,i am here because i am required to take this class for my major.,90
+i am here because this class is required for my major.,i am here because it is a class that is required for my major.,89
+i am here because this class is required for my major.,i am here because this class is required for my degree.,88
+i am here because this class is required for my major.,i am here because this class is a requirement for my biology major.,87
+i am here because this class is required for my major.,"first off, i am here because this course is required for my major.",87
+i am here because this class is required for my major.,so i am here in this class because it is a requirement for my major.,87
+i am here because i want to be here.,i am here because i want to be.,92
+i am here because i want to be here.,im here because i want to be.,86
+i am here because i want to be here.,im here because i want to be.,86
+i am here because i want to be here.,in general i am here because i want to be here.,86
+i am here because i want to be here.,im here because i want to be.,86
+i am here because i want to be here.,i am here because i have to be.,86
+i am here because i want to be here.,i am here because i chose to be here.,85
+i am here in physics because it is a requirement for my major.,i am here in this physics class because it is a requirement for my major.,92
+i am here in physics because it is a requirement for my major.,i am here in this physics lab because it's a requirement for my major.,91
+i am here in physics because it is a requirement for my major.,i am in physics because it is required by my major.,85
+i am here in physics because it is a requirement for my major.,i am here in this physics class because it is a prerequisite for my major.,85
+i am here in this class because it fulfills my major requirements.,i am here because this class fulfills a major requirement.,90
+i am here in this class because it fulfills my major requirements.,so i am here in this class because it is a requirement for my major.,88
+i am here in this class because it fulfills my major requirements.,i am here because this class is a requirement for my major.,86
+i am here in this class because it fulfills my major requirements.,im here because this class is a requirement for my major.,86
+i am here in this class because it fulfills my major requirements.,i am in this class because it is a requirement for my major.,85
+i am here in this class because it is a prerequisite for my major which is biology (physiology).,i am here in this physics class because it is a prerequisite for my major.,86
+i am here in this class because it is a required for my degree.,i am here because this class is required for my degree.,93
+i am here in this class because it is a required for my degree.,i am here because it is a class that is required for my major.,85
+i am here because i was born in this world.,i think i am here because i was born.,87
+i am here because i am supposed to be here.,i am here because i am required to be here.,88
+i am here in this physics class because it is a requirement for my major.,i am here in this physics class because it is a prerequisite for my major.,92
+i am here in this physics class because it is a requirement for my major.,i am here in physics because it is a requirement for my major.,92
+i am here in this physics class because it is a requirement for my major.,so i am here in this class because it is a requirement for my major.,92
+i am here in this physics class because it is a requirement for my major.,i am here in this physics lab because it's a requirement for my major.,91
+i am here in this physics class because it is a requirement for my major.,i am in this class because it is a requirement for my major.,90
+i am here in this physics class because it is a requirement for my major.,i am here because this class is a requirement for my major.,89
+i am here in this physics class because it is a requirement for my major.,i am here because it is a class that is required for my major.,86
+i am here in this physics class because it is a requirement for my major.,im here because this class is a requirement for my major.,86
+i am here plainly because i need to take this class for my major.,i am here because i am required to take this class for my major.,87
+i am here to fulfill a course that is required for my major.,i am here in this class to fulfill a requirement for my major.,85
+i am here to learn about physics.,i am here to learn more about physics.,93
+i am here to learn about physics.,i am also here to learn about physics.,93
+i am here to learn about physics.,i am here to learn physics.,90
+i am here to learn about physics.,"so, i am here to learn more about physics.",89
+i am here to learn physics.,i am here to learn about physics.,90
+i am here to study computer science.,i am here studying computer science.,91
+"i have to take these classes for my biology major, as it is a requirement.",i have to take these courses because its a requirement for all biology majors.,85
+i have to take these courses because its a requirement for all biology majors.,"i have to take these classes for my biology major, as it is a requirement.",85
+i am taking sci 227 because i found out about taking sci classes during my second semester of freshman year during a biology course.,i am taking sci 333 because i found out about taking sci classes during my second semester of freshman year during a biology course.,98
+"i'm somewhat confident in my skills in mathematics currently, but i hope that by the end of the semester i will gain more confidence and not be afraid to ask questions and make errors.","i'm pretty confident in my skills in chemistry currently, but i hope that by the end of the semester i will gain more confidence and not be afraid to ask questions and make errors.",89
+"the reason why i am taking math 227 in general is because of completing the requirements for my major and hopefully one day in the future, be accepted into a medical school.","the reason why i am taking chemistry 333 in general is because of completing the requirements for my major and hopefully one day in the future, be accepted into a medical school.",94
+"this is the last math class i will have to take to fulfill my degree requirements, but i hope to gain a better understanding of the material as it may help me at some point later in life.","this is a class i've been nervous to take to fulfill my degree requirements, but i hope to gain a better understanding of the material as it may help me at some point later in life.",88
+i am taking sci 333 because i found out about taking sci classes during my second semester of freshman year during a biology course.,i am taking sci 227 because i found out about taking sci classes during my second semester of freshman year during a biology course.,98
+"i'm pretty confident in my skills in chemistry currently, but i hope that by the end of the semester i will gain more confidence and not be afraid to ask questions and make errors.","i'm somewhat confident in my skills in mathematics currently, but i hope that by the end of the semester i will gain more confidence and not be afraid to ask questions and make errors.",89
+"the reason why i am taking chemistry 333 in general is because of completing the requirements for my major and hopefully one day in the future, be accepted into a medical school.","the reason why i am taking math 227 in general is because of completing the requirements for my major and hopefully one day in the future, be accepted into a medical school.",94
+"this is a class i've been nervous to take to fulfill my degree requirements, but i hope to gain a better understanding of the material as it may help me at some point later in life.","this is the last math class i will have to take to fulfill my degree requirements, but i hope to gain a better understanding of the material as it may help me at some point later in life.",88
+i am taking both a physics121 sci course and chemistry215 sci course.,i am taking both a physics111 sci course and chemistry115 sci course.,97
+i am taking this sci course because i have a goal of someday becoming a doctor of veterinary medicine.,i am taking this physics course because i have a goal of someday becoming a doctor of veterinary medicine.,97
+i am taking this course because it is a requirement for my major .,i am in this class because it is a requirement for my major.,86
+i am taking this physics course because i have a goal of someday becoming a doctor of veterinary medicine.,i am taking this sci course because i have a goal of someday becoming a doctor of veterinary medicine.,97
+so here i am (:,so why am i here?,86
+so here i am (:,so why am i here?,86
+so here i am (:,so why am i here?,86
+so here i am (:,so why am i here?,86
+so here i am (:,here i am.,86
+so here i am (:,so why am i here?,86
+"i want to go into a stem field, computer science specifically, because technology interests me.",i want to go into the stem field because i am specifically interested in computer science.,88
+i want to go into the stem field because i am specifically interested in computer science.,"i want to go into a stem field, computer science specifically, because technology interests me.",88
+i am also here to learn about physics.,i am here to learn about physics.,93
+i am also here to learn about physics.,i am here to learn more about physics.,86
+i'm here because i chose to be here.,i am here because i chose to be here.,94
+i'm here because this is a class that i need for my major.,i'm here because this class is necessary for my major.,87
+i'm here because this is a class that i need for my major.,i am here because this class is required for my major.,86
+but why am i in this class?,or why am i in this class?,86
+"even though i never had the chance to take many chemistry classes before, im here to dip my toes in other stem fields.","even though i never had the chance to take physics classes before, im here to dip my toes in other stem fields.",90
+i suppose im taking this sci chemistry course so that i can expand my general chemistry knowledge to see if i can apply chemistry concepts in my future research work.,i suppose im taking this sci course so that i can expand my general biology knowledge to see if i can apply biology concepts in my future research work.,85
+"by enrolling in this sci chemistry course, im learning to apply lecture concepts onto real world applications.","by enrolling in this sci biology course, im learning to apply lecture concepts onto real world applications.",93
+"this is helpful since it will reinforce my confidence in chemistry concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in biology concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",97
+"this is helpful since it will reinforce my confidence in chemistry concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in physics concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",95
+"despite being a biology major, i genuinely believe that understanding chemistry concepts will be applicable in my future research work.","despite being a biology major, i genuinely believe that understanding basic physics concepts will be applicable in my future research work.",91
+"despite being a biology major, i genuinely believe that understanding chemistry concepts will be applicable in my future research work.",i genuinely believe that understanding basic biology concepts will be applicable in my future research work.,86
+i suppose im taking this sci course so that i can expand my general biology knowledge to see if i can apply biology concepts in my future research work.,i suppose im taking this physics course so that i can expand my general physics knowledge to see if i can apply physics concepts in my future research work.,86
+i suppose im taking this sci course so that i can expand my general biology knowledge to see if i can apply biology concepts in my future research work.,i suppose im taking this sci chemistry course so that i can expand my general chemistry knowledge to see if i can apply chemistry concepts in my future research work.,85
+"by enrolling in this sci biology course, im learning to apply lecture concepts onto real world applications.","by enrolling in this sci chemistry course, im learning to apply lecture concepts onto real world applications.",93
+"this is helpful since it will reinforce my confidence in biology concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in chemistry concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",97
+"this is helpful since it will reinforce my confidence in biology concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).","this is helpful since it will reinforce my confidence in physics concepts, and that confidence will help me feel more at ease in research environments (specifically research labs for phd programs).",96
+i genuinely believe that understanding basic biology concepts will be applicable in my future research work.,"despite being a biology major, i genuinely believe that understanding basic physics concepts will be applicable in my future research work.",88
+i genuinely believe that understanding basic biology concepts will be applicable in my future research work.,"despite being a biology major, i genuinely believe that understanding chemistry concepts will be applicable in my future research work.",86
+im here because this class is a requirement for my major.,i am here because this class is a requirement for my major.,96
+im here because this class is a requirement for my major.,i am here because this class is required for my major.,94
+im here because this class is a requirement for my major.,i am here because this class is a requirement for my biology major.,90
+im here because this class is a requirement for my major.,i am in this class because it is a requirement for my major.,89
+im here because this class is a requirement for my major.,so i am here in this class because it is a requirement for my major.,89
+im here because this class is a requirement for my major.,i am here because this class is a prerequisite for my major.,87
+im here because this class is a requirement for my major.,i am here because i am required to take this class for my major.,86
+im here because this class is a requirement for my major.,i am here in this class because it fulfills my major requirements.,86
+im here because this class is a requirement for my major.,i am here in this physics class because it is a requirement for my major.,86
+"so, i am here to learn more about physics.",i am here to learn more about physics.,96
+"so, i am here to learn more about physics.",i am here to learn about physics.,89
+it should be streamofconsciousness writing from the heart.,it should be streamofconciousness writing from the heart.,99
+"first off, i am here because this course is required for my major.",i am here because this class is required for my major.,87
+i believe that i am here because i want to be successful.,i am here because i want to be successful.,85
+reflection 1: why am i here?,week 3 reflection: why am i here?,88
+so i am here in this class because it is a requirement for my major.,i am in this class because it is a requirement for my major.,94
+so i am here in this class because it is a requirement for my major.,i am here because this class is a requirement for my major.,93
+so i am here in this class because it is a requirement for my major.,i am here in this physics class because it is a requirement for my major.,92
+so i am here in this class because it is a requirement for my major.,i am here because it is a class that is required for my major.,89
+so i am here in this class because it is a requirement for my major.,im here because this class is a requirement for my major.,89
+so i am here in this class because it is a requirement for my major.,i am here in this class because it fulfills my major requirements.,88
+so i am here in this class because it is a requirement for my major.,i am here because this class is a requirement for my biology major.,87
+so i am here in this class because it is a requirement for my major.,i am here because this class is required for my major.,87
+so i am here in this class because it is a requirement for my major.,"to be specific about this class, i am here because it is a requirement for my major.",85
+i am here because i want to do better in chem 115.,i am here because i want to do better.,86
+i want to be a cardiothoracic surgeon.,i would like to be a cardiothoracic surgeon.,85
+the reason i am here is because of my brother marky.,the reason i am here is because of my major.,87
+the reason i am here is because of my brother marky.,the reason i am here is because of my major.,87
+i am taking physic classes because i am majoring in biology in physiology as a focus.,i am taking biology classes because i am majoring in biology in physiology as a focus.,91
+i am taking physic classes because i am majoring in biology in physiology as a focus.,i am taking chemistry classes because i am majoring in biology in physiology as a focus.,90
+"in this class, i want to improve my teamwork skills and communication skill.","in sci 240 class, i want to improve my teamwork skills and communication skill.",91
+"in this class, i want to improve my teamwork skills and communication skill.","in sci 333 class, i want to improve my teamwork skills and communication skill.",91
+the reason why i am here (sci 240) is that i want to learn or understand the topics of biol 240 lecture and lab classes.,the reason why i am here (sci 333) is that i want to learn or understand the topics of chem 233 lecture and lab classes.,92
+i am taking biology classes because i am majoring in biology in physiology as a focus.,i am taking chemistry classes because i am majoring in biology in physiology as a focus.,93
+i am taking biology classes because i am majoring in biology in physiology as a focus.,i am taking physic classes because i am majoring in biology in physiology as a focus.,91
+"in sci 240 class, i want to improve my teamwork skills and communication skill.","in sci 333 class, i want to improve my teamwork skills and communication skill.",96
+"in sci 240 class, i want to improve my teamwork skills and communication skill.","in this class, i want to improve my teamwork skills and communication skill.",91
+the reason why i am here (sci 333) is that i want to learn or understand the topics of chem 233 lecture and lab classes.,the reason why i am here (sci 240) is that i want to learn or understand the topics of biol 240 lecture and lab classes.,92
+i am taking chemistry classes because i am majoring in biology in physiology as a focus.,i am taking biology classes because i am majoring in biology in physiology as a focus.,93
+i am taking chemistry classes because i am majoring in biology in physiology as a focus.,i am taking physic classes because i am majoring in biology in physiology as a focus.,90
+"in sci 333 class, i want to improve my teamwork skills and communication skill.","in sci 240 class, i want to improve my teamwork skills and communication skill.",96
+"in sci 333 class, i want to improve my teamwork skills and communication skill.","in this class, i want to improve my teamwork skills and communication skill.",91
+this essay is meant to connect you to your purpose.,"""why am i here?"" this essay is meant to connect you to your purpose.",88
+i am really bad at chemistry and physics though.,"though, i am really bad with physics, math and chemistry.",87
+"to be specific about this class, i am here because it is a requirement for my major.",so i am here in this class because it is a requirement for my major.,85
+week 3 reflection: why am i here?,reflection 1: why am i here?,88
+i am very interested in this field.,i am very interested in the stem field.,89
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+why i am here?,why am i here?,100
+i believe i am here in order to figure out what i want to do with my life.,i am here to figure out what i want to do with my life.,85
+i am here to graduate.,i am here to create.,85
+why am i herei am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,i am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,94
+why am i herei am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,i am here to gain the skills i need to pass the physics portion of the mcat and enter medical school.,94
+"i also want to get a better educations, get a better job, preferably one with advancement opportunities.","i also want to get a better educations, get a better job, prferably one with advancement opportunities.",100
+well thats why im here,that's why i'm here.,87
+well thats why im here,that's why i'm here.,87
+or why am i in this class?,but why am i in this class?,86
+or why am i in this class?,why am i here in this class?,85
+or why am i in this class?,why am i here in this class?,85
+"first of all, i am in this class to get as much help as i can with biology.","first of all, i am in this class to get as much help as i can with chemistry.",88
+"bio is not easy for me at all, i like it, but it has been one of the hardest subjects for me since high school.","chemistry is not easy for me at all, i like it, but it has been one of the hardest subjects for me since high school.",94
+"i am currently a biol physio major, which means i have to take gened bio whether i like it or not.","i am currently a biol physio major, which means i have to take chemistry whether i like it or not.",91
+"first of all, i am in this class to get as much help as i can with chemistry.","first of all, i am in this class to get as much help as i can with biology.",88
+"chemistry is not easy for me at all, i like it, but it has been one of the hardest subjects for me since high school.","bio is not easy for me at all, i like it, but it has been one of the hardest subjects for me since high school.",94
+"i am currently a biol physio major, which means i have to take chemistry whether i like it or not.","i am currently a biol physio major, which means i have to take gened bio whether i like it or not.",90
+i am here because i am lucky enough to have the opportunity to attend a school in a nice city thats not too far from home.,i am here because i am lucky enough to have the opportunity to attend a school in a nice city.,87
+i am here because i am lucky enough to have the opportunity to attend a school in a nice city.,i am here because i am lucky enough to have the opportunity to attend a school in a nice city thats not too far from home.,87
+i am here because this class is a prerequisite for my major.,i am here because this class is a prerequisite for my kinesiology major.,91
+i am here because this class is a prerequisite for my major.,i am here because this class is a requirement for my major.,91
+i am here because this class is a prerequisite for my major.,i am here because this class is required for my major.,91
+i am here because this class is a prerequisite for my major.,i am here in this physics class because it is a prerequisite for my major.,89
+i am here because this class is a prerequisite for my major.,i am here because it is a prerequisite for my major courses.,88
+i am here because this class is a prerequisite for my major.,i am here because i am required to take this class for my major.,87
+i am here because this class is a prerequisite for my major.,im here because this class is a requirement for my major.,87
+i am here because this class is a prerequisite for my major.,i am here because it is a class that is required for my major.,85
+i am here because this class is a prerequisite for my major.,i am here because this class is a requirement for my biology major.,85
+i am looking forward to learn about physics in your class.,i am looking forward to learn new things about physics in your class.,91
+i am looking forward to learn new things about physics in your class.,i am looking forward to learn about physics in your class.,91
+"i am here to learn more about science, because i have enjoyed science since elementary school, but i can only continue to learn more of it if i go to college.","i am here to learn more about science,because i have enjoyed science since elementary school, but i can only continue to learn more of it if i go to college.",95
+"i want to get into medical school not to make anyone proud even though it is a plus, but i want to do it for myself, because i have seen many md in different positions in the medical field doing their job and they even show me things that sparks my curiosity and interest even more in science so it just make sense for me want to go to medical school, because that is where there are hands on learning of different positions of the medical field.","i want to get into medical school not to make anyone proud even though it is a plus, but i want to do it for myself, because i have seen many md in different positions in the medical field doing their job and they even show me things that sparks my curiosity and interest even more in science so it just make sense for me to go to medical school, because that is where there are hands on learning of different positions of the medical field.",99
+"i am here to learn more about science,because i have enjoyed science since elementary school, but i can only continue to learn more of it if i go to college.","i am here to learn more about science, because i have enjoyed science since elementary school, but i can only continue to learn more of it if i go to college.",95
+"i want to get into medical school not to make anyone proud even though it is a plus, but i want to do it for myself, because i have seen many md in different positions in the medical field doing their job and they even show me things that sparks my curiosity and interest even more in science so it just make sense for me to go to medical school, because that is where there are hands on learning of different positions of the medical field.","i want to get into medical school not to make anyone proud even though it is a plus, but i want to do it for myself, because i have seen many md in different positions in the medical field doing their job and they even show me things that sparks my curiosity and interest even more in science so it just make sense for me want to go to medical school, because that is where there are hands on learning of different positions of the medical field.",99
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+but why am i here?,why am i here?,87
+i am here because i have to be.,im here because i have to be.,93
+i am here because i have to be.,i am here because i want to be here.,86
+i am here because i have to be.,i am here because i chose to be here.,85
+i am here because i want to do better.,i am here because i want to do better in chem 115.,86
+why are we all here?,why are we here?,88
+why am i at san francisco state university?,why am i attending san francisco state university?,92
+why are we here?,why are we all here?,88
