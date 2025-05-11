@@ -1,0 +1,51 @@
+/* Styles for the table container */
+.table-container {
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+  }
+  
+  /* Modern Table Styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table th, .table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  /* Table header styling */
+  .table th {
+    background-color: #f4f4f4;
+    font-weight: 600;
+    color: #444;
+  }
+  
+  /* Table row hover effect */
+  .table tr:hover {
+    background-color: #f9f9f9;
+    cursor: pointer;
+  }
+  
+  /* Highlight <mark> tags with yellow background */
+  table .highlighted {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
+  /* Add a space between header and content */
+  .theme-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }

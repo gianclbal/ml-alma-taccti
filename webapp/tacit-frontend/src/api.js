@@ -2,78 +2,78 @@ import axios from 'axios';
 
 const API_URL = "http://127.0.0.1:8001";  // Update if needed
 
-// // Function to sign up a user
-// export const signUpUser = async (email, password) => {
-//   try {
-//     const response = await axios.post(`${API_URL}/auth/signup`, {
-//       email,
-//       password
-//     });
+// Function to sign up a user
+export const signUpUser = async (email, password) => {
+  try {
+    const response = await axios.post(`${API_URL}/auth/signup`, {
+      email,
+      password
+    });
 
-//     console.log("Sign-up successful:", response);
-//     return response.data;  // Return response data (e.g., confirmation message)
-//   } catch (error) {
-//     // If the email already exists, show the error message
-//     if (error.response && error.response.data) {
-//       console.error("Error signing up:", error.response.data.detail);
-//       throw error.response.data.detail; // Forward the error message
-//     } else {
-//       console.error("Error signing up:", error.message);
-//       throw error.message; // General error handling
-//     }
-//   }
-// };
+    console.log("Sign-up successful:", response);
+    return response.data;  // Return response data (e.g., confirmation message)
+  } catch (error) {
+    // If the email already exists, show the error message
+    if (error.response && error.response.data) {
+      console.error("Error signing up:", error.response.data.detail);
+      throw error.response.data.detail; // Forward the error message
+    } else {
+      console.error("Error signing up:", error.message);
+      throw error.message; // General error handling
+    }
+  }
+};
 
-// // Function to log in a user and get a JWT token
-// export const loginUser = async (email, password) => {
-//   try {
-//     const response = await axios.post(`${API_URL}/auth/login`, {
-//       email,
-//       password
-//     });
+// Function to log in a user and get a JWT token
+export const loginUser = async (email, password) => {
+  try {
+    const response = await axios.post(`${API_URL}/auth/login`, {
+      email,
+      password
+    });
 
-//     console.log("Login successful:", response);
+    console.log("Login successful:", response);
 
-//     // Store JWT token in localStorage or context
-//     localStorage.setItem('authToken', response.data.access_token);
+    // Store JWT token in localStorage or context
+    localStorage.setItem('authToken', response.data.access_token);
 
-//     return response.data;  // Return the JWT token
-//   } catch (error) {
-//     console.error("Error logging in:", error);
-//     throw error;
-//   }
-// };
+    return response.data;  // Return the JWT token
+  } catch (error) {
+    console.error("Error logging in:", error);
+    throw error;
+  }
+};
 
-// // Function to request password reset (via email)
-// export const resetPasswordRequest = async (email) => {
-//   try {
-//     const response = await axios.post(`${API_URL}/auth/reset-password`, {
-//       email
-//     });
+// Function to request password reset (via email)
+export const resetPasswordRequest = async (email) => {
+  try {
+    const response = await axios.post(`${API_URL}/auth/reset-password`, {
+      email
+    });
 
-//     console.log("Password reset request sent:", response);
-//     return response.data;  // Return response data (e.g., confirmation message)
-//   } catch (error) {
-//     console.error("Error sending reset request:", error);
-//     throw error;
-//   }
-// };
+    console.log("Password reset request sent:", response);
+    return response.data;  // Return response data (e.g., confirmation message)
+  } catch (error) {
+    console.error("Error sending reset request:", error);
+    throw error;
+  }
+};
 
-// // Function to confirm password reset (submit new password and token)
-// export const resetPasswordConfirm = async (token, newPassword) => {
-//   try {
-//     const response = await axios.post(`${API_URL}/auth/reset-password-confirm`, {
-//       token,
-//       new_password: newPassword
-//     });
+// Function to confirm password reset (submit new password and token)
+export const resetPasswordConfirm = async (token, newPassword) => {
+  try {
+    const response = await axios.post(`${API_URL}/auth/reset-password-confirm`, {
+      token,
+      new_password: newPassword
+    });
 
-//     console.log("Password reset successful:", response);
-//     return response.data;  // Return success message
-//   } catch (error) {
-//     console.error("Error resetting password:", error);
-//     throw error;
-//   }
-// };
+    console.log("Password reset successful:", response);
+    return response.data;  // Return success message
+  } catch (error) {
+    console.error("Error resetting password:", error);
+    throw error;
+  }
+};
 
 
 

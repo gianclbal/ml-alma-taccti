@@ -1,5 +1,5 @@
 import React from 'react';
-import '../style/ResultsTable.css'; // Import the CSS file
+import '../ResultsTable.css'; // Import the CSS file
 
 // This function will highlight text inside <mark></mark> tags with yellow color
 const highlightMarkedText = (text) => {
@@ -12,7 +12,7 @@ const highlightMarkedText = (text) => {
 
   return parts.map((part, index) =>
     part.match(/<mark>.*<\/mark>/) ? (
-      <span key={index} style={{ backgroundColor: "yellow" }}>
+      <span key={index} className="highlighted">
         {part.replace(/<mark>|<\/mark>/g, "")}
       </span>
     ) : (
@@ -22,11 +22,6 @@ const highlightMarkedText = (text) => {
 }
 
 const ResultsTable = ({ results, themeName }) => {
-  
-  // Debug: Check if data is passed correctly
-  console.log("Results:", results);
-  console.log("Theme Name:", themeName);
-
   return (
     <div className="table-container">
       {/* Display the theme name at the top of the table */}

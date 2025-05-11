@@ -1,0 +1,44 @@
+/* Tabs Container */
+.tabs-container {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .tab-button {
+    padding: 10px 15px;
+    border: 1px solid #CD853F;
+    border-radius: 5px 5px 0 0;
+    background-color: #CD853F;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 10px;
+  }
+  
+  .tab-button.active {
+    background-color: #A52A2A;
+    color: white;
+    border-color: #A52A2A;
+  }
+  
+  .tab-button:hover {
+    background-color: #8B4513;
+  }
+  
+  /* Tab content */
+  .tab-content {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 0 0 5px 5px;
+  }
+  
+  /* Specific to Results Table layout inside tabs */
+  .tab-content h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }

@@ -1,51 +1,47 @@
-import React, { useState } from "react";
-import { loginUser } from "../api";  // Import login API function
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import { loginUser } from '../api'; // Assuming the login API is imported from api.js
+import '../Login.css'; // Ensure this line is added at the top of your Login.js file
 
-const Login = ({ setAuthenticated, setUserEmail }) => {
-  const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("");
-  const [error, setError] = useState("");
+const Login = ({ setIsAuthenticated, setUserData }) => {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+  const navigate = useNavigate();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-
     try {
       const response = await loginUser(email, password);
-      console.log(response);
-    
-      // Store JWT token
-      localStorage.setItem("authToken", response.access_token);
-      setAuthenticated(true);
-      setUserEmail(email);  // Store the user's email for use
-      // Redirect to homepage or dashboard after successful login
-    } catch (error) {
-      setError("Login failed. Please try again.");
+      // On successful login, store JWT and user data
+      localStorage.setItem('authToken', response.access_token);
+      setUserData({ name: 'John Doe', email: email });  // This can be from the response
+      setIsAuthenticated(true);
+      navigate('/upload');  // Redirect to upload page after login
+    } catch (err) {
+      setError('Invalid credentials, please try again.');
     }
   };
 
   return (
-    <div className="login">
+    <div className="login-container">
       <h2>Login</h2>
+      {error && <p className="error-message">{error}</p>}
       <form onSubmit={handleSubmit}>
-        <div>
-          <label>Email</label>
-          <input
-            type="email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            required
-          />
-        </div>
-        <div>
-          <label>Password</label>
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-            required
-          />
-        </div>
-        {error && <p>{error}</p>}
+        <input
+          type="email"
+          placeholder="Email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+        />
+        <input
+          type="password"
+          placeholder="Password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          required
+        />
         <button type="submit">Login</button>
       </form>
     </div>
