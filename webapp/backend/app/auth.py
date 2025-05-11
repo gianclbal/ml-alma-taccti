@@ -5,6 +5,10 @@ from passlib.context import CryptContext
 from jose import JWTError, jwt
 from datetime import datetime, timedelta
 import uuid
+from fastapi import APIRouter, Depends, HTTPException
+from sqlalchemy.orm import Session
+from . import crud, models, database, schemas
+from .database import get_db
 
 router = APIRouter()
 
@@ -72,14 +76,27 @@ def get_current_user(token: str = Depends(api_key_header)):
         raise HTTPException(status_code=401, detail="Invalid or expired token")
 
 # Endpoint for user sign-up
+# app/auth.py
+
 @router.post("/signup")
-def signup(user: UserSignup):
-    print(f"Received signup request: {user}")
-    if user.email in fake_user_db:
-        raise HTTPException(status_code=400, detail="Email already exists.")
+def signup(user: UserSignup, db: Session = Depends(get_db)):
+    db_user = crud.get_user_by_email(db, user.email)
+    if db_user:
+        raise HTTPException(status_code=400, detail="Email already registered")
+
+    # Hash the password
     hashed_password = get_password_hash(user.password)
-    fake_user_db[user.email] = {"email": user.email, "hashed_password": hashed_password}
-    return {"message": f"User {user.email} signed up successfully!"}
+    db_user = crud.create_user(db, user.email, hashed_password)
+
+    return {"message": f"User {user.email} created successfully"}
+# @router.post("/signup")
+# def signup(user: UserSignup):
+#     print(f"Received signup request: {user}")
+#     if user.email in fake_user_db:
+#         raise HTTPException(status_code=400, detail="Email already exists.")
+#     hashed_password = get_password_hash(user.password)
+#     fake_user_db[user.email] = {"email": user.email, "hashed_password": hashed_password}
+#     return {"message": f"User {user.email} signed up successfully!"}
 
 # Endpoint for user login
 @router.post("/login")

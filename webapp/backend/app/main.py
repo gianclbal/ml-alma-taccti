@@ -15,6 +15,11 @@ from openpyxl.cell.text import InlineFont
 from app.inference import predict_sentences, load_model_for_theme
 from app.auth import router as auth_router, get_current_user
 from openpyxl.styles import Alignment
+from app.database import engine
+from app.models import Base
+
+# Create all tables
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 app.include_router(auth_router, prefix="/auth")
