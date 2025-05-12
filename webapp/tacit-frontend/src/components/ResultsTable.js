@@ -1,10 +1,9 @@
 import React from 'react';
-import '../ResultsTable.css'; // Import the CSS file
+import '../ResultsTable.css';
 
-// This function will highlight text inside <mark></mark> tags with yellow color
 const highlightMarkedText = (text) => {
   if (!text) {
-    return "";  // Return empty string if text is undefined or null
+    return "";
   }
 
   const regex = /(<mark>.*?<\/mark>)/g;
@@ -19,16 +18,18 @@ const highlightMarkedText = (text) => {
       part
     )
   );
-}
+};
 
 const ResultsTable = ({ results, themeName }) => {
+  console.log('Results:', results); // Debugging log
+
+  if (!results || results.length === 0) {
+    return <div>No results available</div>;
+  }
+
   return (
     <div className="table-container">
-      {/* Display the theme name at the top of the table */}
-      <h3 className="theme-name">
-        Results for Theme: {themeName}
-      </h3>
-
+      <h3 className="theme-name">Results for Theme: {themeName}</h3>
       <table className="table">
         <thead>
           <tr>

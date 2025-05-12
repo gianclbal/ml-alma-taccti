@@ -92,7 +92,13 @@ def analyze_essays(payload: AnalyzeRequest, current_user: str = Depends(get_curr
         "chart_counts": [theme_present, theme_absent]
     }
 
-THEME_CONFIG = {    1: {"name": "Aspirational", "model_path": "/Users/gbaldonado/Developer/ml-alma-taccti/ml-alma-taccti/webapp/models/asp_plus_deberta_batch_1_2_runtime_model", "color": "FF0000"},
+THEME_CONFIG = {    1: {"name": "Aspirational", "model_path": "gianclbal/asp_deberta", "color": "FF0000"},
+    2: {"name": "Familial", "model_path": "gianclbal/fam_deberta", "color": "800080"},
+    3: {"name": "Navigational", "model_path": "gianclbal/nav_deberta", "color": "006400"},
+    4: {"name": "Resistance", "model_path": "gianclbal/res_deberta", "color": "FF8C00"},
+    5: {"name": "Social", "model_path": "gianclbal/soc_deberta", "color": "0000FF"}}
+
+LOCAL_THEME_CONFIG = {    1: {"name": "Aspirational", "model_path": "gianclbal/asp_deberta", "color": "FF0000"},
     2: {"name": "Familial", "model_path": "/Users/gbaldonado/Developer/ml-alma-taccti/ml-alma-taccti/webapp/models/fam_plus_deberta_batch_1_2_runtime_model", "color": "800080"},
     3: {"name": "Navigational", "model_path": "/Users/gbaldonado/Developer/ml-alma-taccti/ml-alma-taccti/webapp/models/nav_plus_deberta_batch_1_2_runtime_model", "color": "006400"},
     4: {"name": "Resistance", "model_path": "/Users/gbaldonado/Developer/ml-alma-taccti/ml-alma-taccti/webapp/models/res_plus_deberta_batch_1_2_runtime_model", "color": "FF8C00"},
